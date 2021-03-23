@@ -1,0 +1,8 @@
+[11-Oct-2020 09:43:20 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/Accounts/RolesDatatable.php on line 9
+[29-Oct-2020 14:50:54 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/Accounts/SubAdminDataTable.php on line 9
+[01-Nov-2020 14:37:13 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/Accounts/RolesDatatable.php on line 9
+[04-Nov-2020 22:48:24 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/Accounts/SubAdminDataTable.php on line 9
+[11-Nov-2020 14:35:50 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/Accounts/RolesDatatable.php on line 9
+[24-Nov-2020 18:00:28 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/Accounts/SubAdminDataTable.php on line 9
+[02-Dec-2020 10:44:30 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/Accounts/RolesDatatable.php on line 9
+[07-Dec-2020 09:01:51 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/Accounts/SubAdminDataTable.php on line 9

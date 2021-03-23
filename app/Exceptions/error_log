@@ -1,0 +1,4 @@
+[18-Nov-2019 11:04:37 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/leavecasa/public_html/app/Exceptions/Handler.php on line 8
+[09-Mar-2020 01:55:47 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/leavecasa/public_html/app/Exceptions/Handler.php on line 8
+[20-Nov-2020 20:00:12 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/leavecasa/public_html/app/Exceptions/Handler.php on line 8
+[06-Dec-2020 11:43:18 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/leavecasa/public_html/app/Exceptions/Handler.php on line 8

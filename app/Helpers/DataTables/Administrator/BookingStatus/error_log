@@ -1,0 +1,2 @@
+[01-Dec-2020 15:38:02 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/BookingStatus/FlightBookingDatatable.php on line 9
+[16-Dec-2020 07:58:21 UTC] PHP Fatal error:  Class 'Yajra\DataTables\Services\DataTable' not found in /home/leavecasa/public_html/app/Helpers/DataTables/Administrator/BookingStatus/FlightBookingDatatable.php on line 9

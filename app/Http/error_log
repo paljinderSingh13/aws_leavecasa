@@ -1,0 +1,7 @@
+[18-Nov-2019 11:06:40 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/leavecasa/public_html/app/Http/Kernel.php on line 7
+[08-Mar-2020 03:50:24 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/leavecasa/public_html/app/Http/Kernel.php on line 7
+[23-Aug-2020 03:21:49 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/leavecasa/public_html/app/Http/Kernel.php on line 7
+[01-Sep-2020 22:32:34 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/leavecasa/public_html/app/Http/Kernel.php on line 7
+[14-Sep-2020 09:44:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/leavecasa/public_html/app/Http/Kernel.php on line 7
+[05-Nov-2020 08:28:29 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/leavecasa/public_html/app/Http/Kernel.php on line 7
+[04-Dec-2020 23:45:50 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/leavecasa/public_html/app/Http/Kernel.php on line 7

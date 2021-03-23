@@ -1,0 +1,9 @@
+[18-Nov-2019 11:03:38 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15
+[08-Mar-2020 13:27:53 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15
+[12-Sep-2020 02:17:28 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15
+[01-Oct-2020 14:17:34 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15
+[30-Oct-2020 16:15:43 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15
+[05-Nov-2020 22:38:36 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15
+[13-Nov-2020 00:21:17 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15
+[29-Nov-2020 18:30:32 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15
+[05-Dec-2020 22:48:23 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\Events\Dispatchable' not found in /home/leavecasa/public_html/app/Events/Event.php on line 15

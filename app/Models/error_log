@@ -1,0 +1,6 @@
+[18-Nov-2019 10:49:13 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/leavecasa/public_html/app/Models/Request.php on line 7
+[08-Mar-2020 20:05:31 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/leavecasa/public_html/app/Models/Request.php on line 7
+[12-Oct-2020 03:27:05 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/leavecasa/public_html/app/Models/Request.php on line 7
+[02-Nov-2020 07:46:20 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/leavecasa/public_html/app/Models/Request.php on line 7
+[10-Nov-2020 07:02:55 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/leavecasa/public_html/app/Models/Request.php on line 7
+[05-Dec-2020 13:20:59 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/leavecasa/public_html/app/Models/Request.php on line 7

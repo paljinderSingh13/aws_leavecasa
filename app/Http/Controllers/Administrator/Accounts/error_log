@@ -1,0 +1,17 @@
+[08-Sep-2020 23:40:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/PermissionsController.php on line 11
+[11-Sep-2020 14:22:33 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/RolesController.php on line 10
+[13-Sep-2020 20:27:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/RolesController.php on line 10
+[26-Sep-2020 22:45:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/RolesController.php on line 10
+[13-Oct-2020 17:35:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/RolesController.php on line 10
+[27-Oct-2020 10:20:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/SubAdminController.php on line 11
+[02-Nov-2020 13:57:36 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/PermissionsController.php on line 11
+[04-Nov-2020 18:28:21 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/RolesController.php on line 10
+[07-Nov-2020 15:08:51 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/PermissionsController.php on line 11
+[13-Nov-2020 17:53:17 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/PermissionsController.php on line 11
+[16-Nov-2020 07:01:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/SubAdminController.php on line 11
+[22-Nov-2020 04:09:02 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/RolesController.php on line 10
+[25-Nov-2020 07:26:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/RolesController.php on line 10
+[30-Nov-2020 06:30:40 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/SubAdminController.php on line 11
+[02-Dec-2020 23:17:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/PermissionsController.php on line 11
+[04-Dec-2020 23:24:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/SubAdminController.php on line 11
+[16-Dec-2020 21:25:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Accounts/SubAdminController.php on line 11

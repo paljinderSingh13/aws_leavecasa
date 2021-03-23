@@ -1,0 +1,1 @@
+[14-Sep-2020 08:36:01 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/leavecasa/public_html/app/Http/Controllers/Administrator/Dashboard/DashboardController.php on line 8
