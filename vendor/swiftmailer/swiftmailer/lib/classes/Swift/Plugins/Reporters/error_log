@@ -1,0 +1,2 @@
+[15-Sep-2020 14:10:35 UTC] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 16
+[15-Sep-2020 14:38:59 UTC] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 16

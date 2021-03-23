@@ -1,0 +1,9 @@
+[02-Dec-2020 20:02:56 UTC] PHP Fatal error:  Class 'Psy\Command\Command' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/PsyVersionCommand.php on line 20
+[05-Dec-2020 11:30:56 UTC] PHP Fatal error:  Class 'Psy\Command\Command' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/HistoryCommand.php on line 27
+[06-Dec-2020 18:40:49 UTC] PHP Fatal error:  Class 'Psy\Command\Command' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/SudoCommand.php on line 27
+[08-Dec-2020 06:08:49 UTC] PHP Fatal error:  Class 'Psy\Command\Command' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/TraceCommand.php on line 24
+[09-Dec-2020 14:40:19 UTC] PHP Fatal error:  Class 'Psy\Command\Command' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/EditCommand.php on line 21
+[11-Dec-2020 02:22:52 UTC] PHP Fatal error:  Class 'Psy\Command\ReflectingCommand' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/ListCommand.php on line 36
+[14-Dec-2020 20:06:42 UTC] PHP Fatal error:  Class 'Psy\Command\Command' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/ParseCommand.php on line 29
+[15-Dec-2020 14:45:43 UTC] PHP Fatal error:  Class 'Psy\Command\TraceCommand' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/WtfCommand.php on line 26
+[15-Dec-2020 16:13:11 UTC] PHP Fatal error:  Class 'Psy\Command\Command' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/EditCommand.php on line 21

@@ -1,0 +1,1 @@
+[06-Nov-2020 12:23:42 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/translation/Tests/Writer/TranslationWriterTest.php on line 19

@@ -1,0 +1,3 @@
+[11-Dec-2020 09:46:28 UTC] PHP Fatal error:  Class 'Egulias\EmailValidator\Warning\Warning' not found in /home/leavecasa/public_html/vendor/egulias/email-validator/EmailValidator/Warning/AddressLiteral.php on line 5
+[15-Dec-2020 03:23:31 UTC] PHP Fatal error:  Class 'Egulias\EmailValidator\Warning\Warning' not found in /home/leavecasa/public_html/vendor/egulias/email-validator/EmailValidator/Warning/IPV6MaxGroups.php on line 5
+[15-Dec-2020 14:19:57 UTC] PHP Fatal error:  Class 'Egulias\EmailValidator\Warning\Warning' not found in /home/leavecasa/public_html/vendor/egulias/email-validator/EmailValidator/Warning/Comment.php on line 5

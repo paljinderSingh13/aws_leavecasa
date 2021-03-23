@@ -1,0 +1,6 @@
+[20-Sep-2020 12:38:18 UTC] PHP Fatal error:  Class 'PHPExcel' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Classes/PHPExcel.php on line 16
+[28-Oct-2020 21:14:33 UTC] PHP Fatal error:  Class 'PHPExcel' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Classes/PHPExcel.php on line 16
+[03-Nov-2020 01:58:09 UTC] PHP Fatal error:  Class 'PHPExcel_Worksheet' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Classes/LaravelExcelWorksheet.php on line 24
+[27-Nov-2020 01:34:28 UTC] PHP Fatal error:  Class 'PHPExcel' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Classes/PHPExcel.php on line 16
+[07-Dec-2020 21:15:53 UTC] PHP Fatal error:  Class 'PHPExcel' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Classes/PHPExcel.php on line 16
+[17-Dec-2020 02:13:48 UTC] PHP Fatal error:  Class 'PHPExcel' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Classes/PHPExcel.php on line 16

@@ -1,0 +1,3 @@
+[23-Sep-2020 22:25:28 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\Bundle\Bundle' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionLoadedBundle/ExtensionLoadedBundle.php on line 16
+[12-Oct-2020 19:53:38 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\Bundle\Bundle' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionLoadedBundle/ExtensionLoadedBundle.php on line 16
+[21-Nov-2020 13:09:57 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpKernel\Bundle\Bundle' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionLoadedBundle/ExtensionLoadedBundle.php on line 16

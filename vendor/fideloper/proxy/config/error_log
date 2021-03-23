@@ -1,0 +1,60 @@
+[14-Mar-2020 21:29:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[15-Aug-2020 19:14:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[18-Aug-2020 09:17:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[20-Aug-2020 06:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[31-Aug-2020 20:55:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[05-Sep-2020 00:39:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[05-Sep-2020 04:21:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[09-Sep-2020 17:28:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[21-Oct-2020 08:06:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[21-Oct-2020 21:11:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[01-Nov-2020 00:26:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[06-Nov-2020 16:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[27-Nov-2020 00:32:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[07-Dec-2020 02:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42
+[07-Dec-2020 18:15:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 42

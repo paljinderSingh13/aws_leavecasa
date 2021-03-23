@@ -1,0 +1,6 @@
+[03-Nov-2020 09:38:19 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\Request' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/Controller/ExtendingRequest.php on line 16
+[09-Nov-2020 03:24:37 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\Session\Session' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/Controller/ExtendingSession.php on line 16
+[15-Nov-2020 08:33:20 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\Request' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/Controller/ExtendingRequest.php on line 16
+[26-Nov-2020 02:41:07 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\Request' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/Controller/ExtendingRequest.php on line 16
+[07-Dec-2020 19:01:30 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\Request' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/Controller/ExtendingRequest.php on line 16
+[18-Dec-2020 17:56:07 UTC] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\Session\Session' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/Controller/ExtendingSession.php on line 16

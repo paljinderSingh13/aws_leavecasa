@@ -1,0 +1,2 @@
+[31-Oct-2020 00:50:57 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Tests/Test/VarDumperTestTraitTest.php on line 17
+[07-Dec-2020 02:54:14 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Tests/Test/VarDumperTestTraitTest.php on line 17

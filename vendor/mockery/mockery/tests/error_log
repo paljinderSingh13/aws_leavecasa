@@ -1,0 +1,16 @@
+[16-Mar-2020 12:16:31 UTC] PHP Fatal error:  Uncaught Exception: Please run "php composer.phar install" in root directory to setup unit test dependencies before running the tests in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Bootstrap.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Bootstrap.php on line 45
+[29-Mar-2020 00:41:16 UTC] PHP Fatal error:  Uncaught Exception: Please run "php composer.phar install" in root directory to setup unit test dependencies before running the tests in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Bootstrap.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Bootstrap.php on line 45
+[23-Aug-2020 00:55:06 UTC] PHP Fatal error:  Uncaught Exception: Please run "php composer.phar install" in root directory to setup unit test dependencies before running the tests in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Bootstrap.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Bootstrap.php on line 45
+[06-Sep-2020 09:58:39 UTC] PHP Fatal error:  Uncaught Exception: Please run "php composer.phar install" in root directory to setup unit test dependencies before running the tests in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Bootstrap.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Bootstrap.php on line 45

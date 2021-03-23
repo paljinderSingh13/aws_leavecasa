@@ -1,0 +1,15 @@
+[14-Mar-2020 21:29:55 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ArrayComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/ObjectComparator.php on line 16
+[14-Mar-2020 22:10:32 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/MockObjectComparator.php on line 16
+[14-Mar-2020 22:51:30 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/TypeComparator.php on line 16
+[15-Mar-2020 00:12:52 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\NumericComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/DoubleComparator.php on line 16
+[15-Mar-2020 02:53:16 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ScalarComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/NumericComparator.php on line 16
+[15-Mar-2020 06:15:25 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/ResourceComparator.php on line 16
+[15-Mar-2020 12:20:10 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/DOMNodeComparator.php on line 19
+[16-Mar-2020 01:00:13 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/ExceptionComparator.php on line 16
+[16-Mar-2020 16:59:34 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/SplObjectStorageComparator.php on line 16
+[16-Mar-2020 17:38:39 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/DateTimeComparator.php on line 16
+[24-Mar-2020 16:20:35 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/TypeComparator.php on line 16
+[06-Sep-2020 08:49:05 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/TypeComparator.php on line 16
+[09-Dec-2020 07:46:08 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/MockObjectComparator.php on line 16
+[13-Dec-2020 18:46:39 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/DateTimeComparator.php on line 16
+[18-Dec-2020 01:35:21 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ArrayComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/src/ObjectComparator.php on line 16

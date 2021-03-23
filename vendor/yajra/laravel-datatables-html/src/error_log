@@ -1,0 +1,3 @@
+[07-Mar-2020 14:32:47 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/yajra/laravel-datatables-html/src/HtmlServiceProvider.php on line 8
+[19-Aug-2020 02:52:27 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/yajra/laravel-datatables-html/src/HtmlServiceProvider.php on line 8
+[03-Nov-2020 09:46:23 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/yajra/laravel-datatables-html/src/HtmlServiceProvider.php on line 8

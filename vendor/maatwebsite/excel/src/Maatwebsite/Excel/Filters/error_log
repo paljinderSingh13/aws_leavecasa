@@ -1,0 +1,2 @@
+[13-Nov-2020 20:50:37 UTC] PHP Fatal error:  Interface 'PHPExcel_Reader_IReadFilter' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Filters/ChunkReadFilter.php on line 5
+[17-Nov-2020 10:03:26 UTC] PHP Fatal error:  Interface 'PHPExcel_Reader_IReadFilter' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Filters/ChunkReadFilter.php on line 5

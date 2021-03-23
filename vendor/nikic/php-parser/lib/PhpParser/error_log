@@ -1,0 +1,13 @@
+[13-Mar-2020 06:52:17 UTC] PHP Fatal error:  Interface 'PhpParser\Node' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 7
+[14-Mar-2020 03:24:06 UTC] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 22
+[14-Mar-2020 07:26:32 UTC] PHP Fatal error:  Interface 'PhpParser\NodeVisitor' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[23-Mar-2020 23:39:29 UTC] PHP Fatal error:  Interface 'PhpParser\NodeTraverserInterface' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[24-Mar-2020 02:23:03 UTC] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/BuilderAbstract.php on line 12
+[26-Mar-2020 20:15:12 UTC] PHP Fatal error:  Interface 'PhpParser\NodeTraverserInterface' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[20-Nov-2020 03:16:44 UTC] PHP Fatal error:  Interface 'PhpParser\NodeVisitor' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[21-Nov-2020 07:56:52 UTC] PHP Fatal error:  Interface 'PhpParser\NodeTraverserInterface' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[03-Dec-2020 22:14:07 UTC] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/BuilderAbstract.php on line 12
+[04-Dec-2020 09:07:22 UTC] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 22
+[05-Dec-2020 23:51:06 UTC] PHP Fatal error:  Interface 'PhpParser\Node' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 7
+[07-Dec-2020 11:51:19 UTC] PHP Fatal error:  Interface 'PhpParser\NodeTraverserInterface' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[18-Dec-2020 22:50:56 UTC] PHP Fatal error:  Interface 'PhpParser\NodeTraverserInterface' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5

@@ -1,0 +1,1 @@
+[07-Sep-2020 00:47:12 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/leavecasa/public_html/vendor/barryvdh/reflection-docblock/tests/Barryvdh/Reflection/DocBlock/Type/CollectionTest.php on line 27

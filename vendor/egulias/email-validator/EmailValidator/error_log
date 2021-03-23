@@ -1,0 +1,2 @@
+[15-Mar-2020 23:35:59 UTC] PHP Fatal error:  Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/leavecasa/public_html/vendor/egulias/email-validator/EmailValidator/EmailLexer.php on line 7
+[12-Sep-2020 01:53:54 UTC] PHP Fatal error:  Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/leavecasa/public_html/vendor/egulias/email-validator/EmailValidator/EmailLexer.php on line 7

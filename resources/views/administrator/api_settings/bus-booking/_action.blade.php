@@ -1,0 +1,1 @@
+<a href="{{route('delete.bus_markup',$model->id)}}"><i class="fa fa-trash red"></i></a>

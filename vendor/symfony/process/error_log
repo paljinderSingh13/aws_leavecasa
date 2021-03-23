@@ -1,0 +1,7 @@
+[14-Mar-2020 04:31:49 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Process' not found in /home/leavecasa/public_html/vendor/symfony/process/PhpProcess.php on line 25
+[14-Mar-2020 13:52:12 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Process' not found in /home/leavecasa/public_html/vendor/symfony/process/PhpProcess.php on line 25
+[13-Jun-2020 14:28:49 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Process' not found in /home/leavecasa/public_html/vendor/symfony/process/PhpProcess.php on line 25
+[17-Sep-2020 07:39:38 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Process' not found in /home/leavecasa/public_html/vendor/symfony/process/PhpProcess.php on line 25
+[29-Oct-2020 09:45:11 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Process' not found in /home/leavecasa/public_html/vendor/symfony/process/PhpProcess.php on line 25
+[03-Nov-2020 23:46:57 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Process' not found in /home/leavecasa/public_html/vendor/symfony/process/PhpProcess.php on line 25
+[04-Dec-2020 04:40:21 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Process' not found in /home/leavecasa/public_html/vendor/symfony/process/PhpProcess.php on line 25

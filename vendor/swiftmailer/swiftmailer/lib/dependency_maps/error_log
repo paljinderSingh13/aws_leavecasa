@@ -1,0 +1,4 @@
+[15-Sep-2020 11:58:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php on line 5

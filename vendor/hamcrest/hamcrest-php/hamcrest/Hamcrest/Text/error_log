@@ -1,0 +1,8 @@
+[02-Dec-2020 15:40:39 UTC] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/SubstringMatcher.php on line 11
+[03-Dec-2020 03:21:19 UTC] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEmptyString.php on line 15
+[06-Dec-2020 02:43:41 UTC] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/MatchesPattern.php on line 11
+[06-Dec-2020 04:43:59 UTC] PHP Fatal error:  Class 'Hamcrest\Text\SubstringMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContainsIgnoringCase.php on line 11
+[08-Dec-2020 18:47:37 UTC] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEmptyString.php on line 15
+[10-Dec-2020 03:12:16 UTC] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEqualIgnoringWhiteSpace.php on line 14
+[10-Dec-2020 11:47:12 UTC] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/IsEmptyString.php on line 15
+[17-Dec-2020 15:02:30 UTC] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Text/StringContainsInOrder.php on line 13

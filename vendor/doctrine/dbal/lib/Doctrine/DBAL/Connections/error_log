@@ -1,0 +1,1 @@
+[15-Sep-2020 00:45:54 UTC] PHP Fatal error:  Class 'Doctrine\DBAL\Connection' not found in /home/leavecasa/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connections/MasterSlaveConnection.php on line 86

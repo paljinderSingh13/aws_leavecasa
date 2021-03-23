@@ -1,0 +1,7 @@
+[10-Sep-2020 13:20:23 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/console/Tests/Logger/ConsoleLoggerTest.php on line 28
+[26-Sep-2020 18:06:43 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/console/Tests/Logger/ConsoleLoggerTest.php on line 28
+[09-Oct-2020 23:22:33 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/console/Tests/Logger/ConsoleLoggerTest.php on line 28
+[27-Oct-2020 19:20:28 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/console/Tests/Logger/ConsoleLoggerTest.php on line 28
+[01-Nov-2020 22:59:32 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/console/Tests/Logger/ConsoleLoggerTest.php on line 28
+[17-Nov-2020 07:26:50 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/console/Tests/Logger/ConsoleLoggerTest.php on line 28
+[03-Dec-2020 13:33:52 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/symfony/console/Tests/Logger/ConsoleLoggerTest.php on line 28

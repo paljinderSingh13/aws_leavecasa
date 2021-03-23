@@ -1,0 +1,1 @@
+[15-Dec-2020 14:40:35 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/leavecasa/public_html/vendor/phar-io/manifest/tests/ManifestSerializerTest.php on line 47

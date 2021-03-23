@@ -1,0 +1,3 @@
+[17-Sep-2020 18:05:12 UTC] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/StreamFilters/StringReplacementFilter.php on line 16
+[17-Sep-2020 18:24:06 UTC] PHP Fatal error:  Interface 'Swift_ReplacementFilterFactory' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php on line 16
+[17-Sep-2020 20:36:38 UTC] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 18

@@ -1,0 +1,5 @@
+[04-Sep-2020 08:00:01 UTC] PHP Fatal error:  Interface 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface' not found in /home/leavecasa/public_html/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[10-Sep-2020 21:47:37 UTC] PHP Fatal error:  Class 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumper' not found in /home/leavecasa/public_html/vendor/symfony/routing/Generator/Dumper/PhpGeneratorDumper.php on line 20
+[24-Sep-2020 08:43:40 UTC] PHP Fatal error:  Interface 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface' not found in /home/leavecasa/public_html/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[02-Nov-2020 10:46:57 UTC] PHP Fatal error:  Class 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumper' not found in /home/leavecasa/public_html/vendor/symfony/routing/Generator/Dumper/PhpGeneratorDumper.php on line 20
+[03-Dec-2020 12:36:29 UTC] PHP Fatal error:  Interface 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface' not found in /home/leavecasa/public_html/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21

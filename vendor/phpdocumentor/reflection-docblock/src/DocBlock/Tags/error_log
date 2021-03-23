@@ -1,0 +1,4 @@
+[11-Dec-2020 16:57:57 UTC] PHP Fatal error:  Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/leavecasa/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php on line 23
+[11-Dec-2020 17:23:10 UTC] PHP Fatal error:  Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/leavecasa/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php on line 25
+[18-Dec-2020 09:45:28 UTC] PHP Fatal error:  Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/leavecasa/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php on line 23
+[18-Dec-2020 18:41:40 UTC] PHP Fatal error:  Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/leavecasa/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php on line 23

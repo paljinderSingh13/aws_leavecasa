@@ -1,0 +1,2 @@
+[16-Sep-2020 12:06:28 UTC] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 18
+[16-Sep-2020 13:22:12 UTC] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 16

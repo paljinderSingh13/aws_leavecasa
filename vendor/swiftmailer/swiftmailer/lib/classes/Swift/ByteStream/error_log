@@ -1,0 +1,1 @@
+[17-Sep-2020 06:15:09 UTC] PHP Fatal error:  Class 'Swift_ByteStream_FileByteStream' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php on line 14

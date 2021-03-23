@@ -1,0 +1,5 @@
+[01-Nov-2020 19:33:45 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/leavecasa/public_html/vendor/barryvdh/laravel-ide-helper/src/Console/EloquentCommand.php on line 22
+[06-Nov-2020 23:28:44 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/leavecasa/public_html/vendor/barryvdh/laravel-ide-helper/src/Console/GeneratorCommand.php on line 25
+[21-Nov-2020 10:18:15 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/leavecasa/public_html/vendor/barryvdh/laravel-ide-helper/src/Console/ModelsCommand.php on line 31
+[21-Nov-2020 23:15:59 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/leavecasa/public_html/vendor/barryvdh/laravel-ide-helper/src/Console/MetaCommand.php on line 22
+[06-Dec-2020 12:04:15 UTC] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/leavecasa/public_html/vendor/barryvdh/laravel-ide-helper/src/Console/ModelsCommand.php on line 31

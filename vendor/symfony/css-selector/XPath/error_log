@@ -1,0 +1,6 @@
+[31-Aug-2020 23:04:26 UTC] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/leavecasa/public_html/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[08-Sep-2020 22:15:24 UTC] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/leavecasa/public_html/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[25-Sep-2020 03:04:40 UTC] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/leavecasa/public_html/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[25-Sep-2020 23:23:11 UTC] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/leavecasa/public_html/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[08-Nov-2020 19:54:01 UTC] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/leavecasa/public_html/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[07-Dec-2020 03:32:00 UTC] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/leavecasa/public_html/vendor/symfony/css-selector/XPath/Translator.php on line 31

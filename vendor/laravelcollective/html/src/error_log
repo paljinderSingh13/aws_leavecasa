@@ -1,0 +1,8 @@
+[12-Mar-2020 11:41:19 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/leavecasa/public_html/vendor/laravelcollective/html/src/HtmlBuilder.php on line 13
+[12-Mar-2020 21:48:26 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/leavecasa/public_html/vendor/laravelcollective/html/src/HtmlFacade.php on line 10
+[13-Mar-2020 01:58:16 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/laravelcollective/html/src/HtmlServiceProvider.php on line 10
+[13-Mar-2020 04:43:07 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/leavecasa/public_html/vendor/laravelcollective/html/src/FormBuilder.php on line 19
+[14-Mar-2020 05:11:49 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/leavecasa/public_html/vendor/laravelcollective/html/src/FormFacade.php on line 10
+[17-Mar-2020 00:25:11 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/leavecasa/public_html/vendor/laravelcollective/html/src/FormFacade.php on line 10
+[14-Jun-2020 10:26:12 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/leavecasa/public_html/vendor/laravelcollective/html/src/HtmlBuilder.php on line 13
+[22-Jun-2020 13:47:38 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/leavecasa/public_html/vendor/laravelcollective/html/src/FormFacade.php on line 10

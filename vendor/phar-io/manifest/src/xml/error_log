@@ -1,0 +1,3 @@
+[12-Sep-2020 02:08:46 UTC] PHP Fatal error:  Class 'PharIo\Manifest\ManifestElement' not found in /home/leavecasa/public_html/vendor/phar-io/manifest/src/xml/RequiresElement.php on line 13
+[12-Sep-2020 02:10:12 UTC] PHP Fatal error:  Class 'PharIo\Manifest\ManifestElement' not found in /home/leavecasa/public_html/vendor/phar-io/manifest/src/xml/LicenseElement.php on line 13
+[12-Sep-2020 02:12:18 UTC] PHP Fatal error:  Class 'PharIo\Manifest\ElementCollection' not found in /home/leavecasa/public_html/vendor/phar-io/manifest/src/xml/ComponentElementCollection.php on line 13

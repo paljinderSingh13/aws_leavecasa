@@ -1,0 +1,2 @@
+[12-Nov-2020 19:28:23 UTC] PHP Fatal error:  Class 'Symfony\Component\DependencyInjection\Extension\Extension' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionPresentBundle/DependencyInjection/ExtensionPresentExtension.php on line 17
+[19-Nov-2020 23:59:33 UTC] PHP Fatal error:  Class 'Symfony\Component\DependencyInjection\Extension\Extension' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionPresentBundle/DependencyInjection/ExtensionPresentExtension.php on line 17

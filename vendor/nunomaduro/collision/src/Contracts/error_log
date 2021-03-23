@@ -1,0 +1,3 @@
+[12-Nov-2020 21:29:35 UTC] PHP Fatal error:  Interface 'Whoops\Handler\HandlerInterface' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Contracts/Handler.php on line 22
+[02-Dec-2020 00:02:07 UTC] PHP Fatal error:  Interface 'Whoops\Handler\HandlerInterface' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Contracts/Handler.php on line 22
+[08-Dec-2020 15:22:20 UTC] PHP Fatal error:  Interface 'Whoops\Handler\HandlerInterface' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Contracts/Handler.php on line 22

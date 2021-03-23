@@ -1,0 +1,1 @@
+[23-Aug-2020 22:34:12 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/leavecasa/public_html/vendor/sebastian/comparator/tests/_fixture/TestClassComparator.php on line 13

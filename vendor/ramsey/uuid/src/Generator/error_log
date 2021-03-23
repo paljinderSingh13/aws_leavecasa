@@ -1,0 +1,2 @@
+[17-Dec-2020 09:21:41 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\TimeGeneratorInterface' not found in /home/leavecasa/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 23
+[18-Dec-2020 10:51:43 UTC] PHP Fatal error:  Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/leavecasa/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 23

@@ -1,0 +1,11 @@
+[03-Apr-2020 19:38:56 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[18-Aug-2020 11:45:16 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[18-Aug-2020 11:45:42 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/HelpCommand.php on line 25
+[14-Sep-2020 13:34:59 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[14-Sep-2020 14:55:06 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/HelpCommand.php on line 25
+[03-Nov-2020 11:33:20 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/HelpCommand.php on line 25
+[15-Nov-2020 17:59:05 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[24-Nov-2020 12:08:31 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[01-Dec-2020 23:46:37 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/HelpCommand.php on line 25
+[05-Dec-2020 03:59:03 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/ListCommand.php on line 26
+[07-Dec-2020 01:33:26 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/console/Command/HelpCommand.php on line 25

@@ -1,0 +1,2 @@
+[25-Oct-2020 23:20:16 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Facades/Excel.php on line 16
+[07-Dec-2020 12:12:33 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/Facades/Excel.php on line 16

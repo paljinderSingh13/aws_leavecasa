@@ -1,0 +1,3 @@
+[01-Dec-2020 15:43:27 UTC] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Number/IsCloseTo.php on line 14
+[05-Dec-2020 22:53:31 UTC] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Number/OrderingComparison.php on line 11
+[18-Dec-2020 08:23:49 UTC] PHP Fatal error:  Class 'Hamcrest\TypeSafeMatcher' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Number/IsCloseTo.php on line 14

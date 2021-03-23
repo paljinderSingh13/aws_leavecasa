@@ -1,0 +1,1 @@
+[04-Dec-2020 20:23:20 UTC] PHP Fatal error:  Interface 'Monolog\Handler\FingersCrossed\ActivationStrategyInterface' not found in /home/leavecasa/public_html/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php on line 36

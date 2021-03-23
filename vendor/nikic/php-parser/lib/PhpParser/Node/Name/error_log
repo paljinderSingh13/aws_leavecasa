@@ -1,0 +1,1 @@
+[10-Dec-2020 14:10:28 UTC] PHP Fatal error:  Class 'PhpParser\Node\Name' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php on line 5

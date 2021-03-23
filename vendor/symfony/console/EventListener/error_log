@@ -1,0 +1,4 @@
+[16-Mar-2020 03:40:10 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/leavecasa/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[08-Sep-2020 09:25:53 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/leavecasa/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[09-Sep-2020 16:21:58 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/leavecasa/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[15-Sep-2020 00:24:07 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/leavecasa/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25

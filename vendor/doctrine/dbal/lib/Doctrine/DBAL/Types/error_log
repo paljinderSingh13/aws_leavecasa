@@ -1,0 +1,1 @@
+[14-Sep-2020 20:01:54 UTC] PHP Fatal error:  Class 'Doctrine\DBAL\Types\DateTimeType' not found in /home/leavecasa/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeImmutableType.php on line 30

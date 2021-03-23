@@ -1,0 +1,1 @@
+[05-Mar-2020 19:58:18 UTC] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13

@@ -1,0 +1,14 @@
+[16-Mar-2020 00:17:00 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 23
+[16-Mar-2020 01:01:59 UTC] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[16-Mar-2020 13:39:49 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[27-Mar-2020 00:03:31 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 23
+[02-Apr-2020 13:30:39 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[02-Apr-2020 14:36:57 UTC] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[27-Oct-2020 19:15:22 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[02-Nov-2020 02:40:18 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[07-Nov-2020 09:18:47 UTC] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[08-Nov-2020 03:53:55 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[17-Nov-2020 02:28:43 UTC] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[30-Nov-2020 11:37:49 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[04-Dec-2020 06:35:17 UTC] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[13-Dec-2020 07:02:50 UTC] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/leavecasa/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27

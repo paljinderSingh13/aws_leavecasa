@@ -1,0 +1,2 @@
+[16-Mar-2020 10:21:33 UTC] PHP Fatal error:  Interface 'Psr\SimpleCache\CacheException' not found in /home/leavecasa/public_html/vendor/psr/simple-cache/src/InvalidArgumentException.php on line 11
+[09-Dec-2020 10:44:36 UTC] PHP Fatal error:  Interface 'Psr\SimpleCache\CacheException' not found in /home/leavecasa/public_html/vendor/psr/simple-cache/src/InvalidArgumentException.php on line 11

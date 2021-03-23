@@ -1,0 +1,4 @@
+[01-Dec-2020 17:04:16 UTC] PHP Fatal error:  Interface 'Doctrine\Common\Annotations\Reader' not found in /home/leavecasa/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/IndexedReader.php on line 27
+[05-Dec-2020 10:22:44 UTC] PHP Fatal error:  Interface 'Doctrine\Common\Annotations\Reader' not found in /home/leavecasa/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/AnnotationReader.php on line 37
+[07-Dec-2020 08:46:04 UTC] PHP Fatal error:  Interface 'Doctrine\Common\Annotations\Reader' not found in /home/leavecasa/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/CachedReader.php on line 31
+[13-Dec-2020 23:28:46 UTC] PHP Fatal error:  Interface 'Doctrine\Common\Annotations\Reader' not found in /home/leavecasa/public_html/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/CachedReader.php on line 31

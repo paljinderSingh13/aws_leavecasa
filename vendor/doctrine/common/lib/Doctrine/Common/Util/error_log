@@ -1,0 +1,1 @@
+[03-Dec-2020 03:27:04 UTC] PHP Fatal error:  Class 'Doctrine\Common\Inflector\Inflector' not found in /home/leavecasa/public_html/vendor/doctrine/common/lib/Doctrine/Common/Util/Inflector.php on line 29

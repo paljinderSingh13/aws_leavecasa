@@ -1,0 +1,4 @@
+[15-Mar-2020 11:39:28 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/translation/Command/XliffLintCommand.php on line 27
+[14-Sep-2020 05:05:43 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/translation/Command/XliffLintCommand.php on line 27
+[30-Oct-2020 12:48:42 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/translation/Command/XliffLintCommand.php on line 27
+[15-Nov-2020 22:11:39 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/translation/Command/XliffLintCommand.php on line 27

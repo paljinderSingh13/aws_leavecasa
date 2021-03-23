@@ -1,0 +1,1 @@
+[14-Dec-2020 14:28:55 UTC] PHP Fatal error:  Class 'League\Fractal\Serializer\ArraySerializer' not found in /home/leavecasa/public_html/vendor/league/fractal/src/Serializer/DataArraySerializer.php on line 14

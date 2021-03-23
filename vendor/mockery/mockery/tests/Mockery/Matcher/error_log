@@ -1,0 +1,2 @@
+[24-Aug-2020 07:14:41 UTC] PHP Fatal error:  Class 'Mockery\Adapter\Phpunit\MockeryTestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Matcher/SubsetTest.php on line 26
+[24-Aug-2020 09:43:47 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Matcher/PHPUnitConstraintTest.php on line 26

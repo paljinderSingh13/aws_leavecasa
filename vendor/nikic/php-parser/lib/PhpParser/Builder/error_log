@@ -1,0 +1,6 @@
+[30-Nov-2020 04:46:13 UTC] PHP Fatal error:  Class 'PhpParser\Builder\Declaration' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php on line 8
+[30-Nov-2020 17:37:44 UTC] PHP Fatal error:  Class 'PhpParser\Builder\Declaration' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 9
+[03-Dec-2020 01:44:22 UTC] PHP Fatal error:  Class 'PhpParser\Builder\FunctionLike' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 9
+[05-Dec-2020 21:45:42 UTC] PHP Fatal error:  Class 'PhpParser\BuilderAbstract' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 8
+[07-Dec-2020 11:03:37 UTC] PHP Fatal error:  Class 'PhpParser\BuilderAbstract' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 7
+[13-Dec-2020 22:47:48 UTC] PHP Fatal error:  Class 'PhpParser\Builder\Declaration' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8

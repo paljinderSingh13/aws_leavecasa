@@ -1,0 +1,7 @@
+[13-Sep-2020 07:49:41 UTC] PHP Fatal error:  Class 'Laravel\Socialite\AbstractUser' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/One/User.php on line 7
+[15-Sep-2020 17:10:27 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\Provider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/One/AbstractProvider.php on line 12
+[15-Sep-2020 17:19:55 UTC] PHP Fatal error:  Class 'Laravel\Socialite\One\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/One/TwitterProvider.php on line 7
+[04-Nov-2020 04:47:53 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\Provider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/One/AbstractProvider.php on line 12
+[24-Nov-2020 20:18:11 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\Provider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/One/AbstractProvider.php on line 12
+[03-Dec-2020 11:32:24 UTC] PHP Fatal error:  Class 'Laravel\Socialite\One\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/One/TwitterProvider.php on line 7
+[04-Dec-2020 21:54:13 UTC] PHP Fatal error:  Class 'Laravel\Socialite\AbstractUser' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/One/User.php on line 7

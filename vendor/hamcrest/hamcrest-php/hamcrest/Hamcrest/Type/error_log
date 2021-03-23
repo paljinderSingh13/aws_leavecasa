@@ -1,0 +1,2 @@
+[14-Dec-2020 05:11:26 UTC] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsString.php on line 12
+[18-Dec-2020 18:56:51 UTC] PHP Fatal error:  Class 'Hamcrest\Core\IsTypeOf' not found in /home/leavecasa/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Type/IsArray.php on line 12

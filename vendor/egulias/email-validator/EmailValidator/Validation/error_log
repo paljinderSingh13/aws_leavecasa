@@ -1,0 +1,2 @@
+[13-Dec-2020 16:12:06 UTC] PHP Fatal error:  Interface 'Egulias\EmailValidator\Validation\EmailValidation' not found in /home/leavecasa/public_html/vendor/egulias/email-validator/EmailValidator/Validation/RFCValidation.php on line 9
+[18-Dec-2020 10:00:42 UTC] PHP Fatal error:  Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home/leavecasa/public_html/vendor/egulias/email-validator/EmailValidator/Validation/MultipleErrors.php on line 7

@@ -1,0 +1,1 @@
+[08-Dec-2020 17:20:31 UTC] PHP Fatal error:  Interface 'Doctrine\Common\Persistence\Proxy' not found in /home/leavecasa/public_html/vendor/doctrine/common/lib/Doctrine/Common/Proxy/Proxy.php on line 32

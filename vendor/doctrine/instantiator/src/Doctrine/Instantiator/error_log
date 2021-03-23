@@ -1,0 +1,2 @@
+[30-Nov-2020 07:42:50 UTC] PHP Fatal error:  Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/leavecasa/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 32
+[05-Dec-2020 03:01:05 UTC] PHP Fatal error:  Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/leavecasa/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 32

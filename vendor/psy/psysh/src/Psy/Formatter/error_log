@@ -1,0 +1,1 @@
+[04-Dec-2020 16:17:55 UTC] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Formatter/SignatureFormatter.php on line 22

@@ -1,0 +1,16 @@
+[14-Mar-2020 05:18:13 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 8
+[14-Mar-2020 11:55:02 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\User' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 7
+[15-Mar-2020 03:23:00 UTC] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 17
+[17-Mar-2020 00:29:41 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 8
+[28-Oct-2020 03:20:16 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 8
+[28-Oct-2020 13:38:03 UTC] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 17
+[29-Oct-2020 01:14:35 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\User' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 7
+[02-Nov-2020 06:26:03 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 8
+[05-Nov-2020 21:53:36 UTC] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 17
+[06-Nov-2020 10:08:41 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\User' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 7
+[29-Nov-2020 20:45:05 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\User' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 7
+[30-Nov-2020 17:59:17 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 8
+[04-Dec-2020 06:40:34 UTC] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 17
+[05-Dec-2020 01:10:29 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 8
+[06-Dec-2020 15:38:06 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\User' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 7
+[12-Dec-2020 06:05:50 UTC] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 17

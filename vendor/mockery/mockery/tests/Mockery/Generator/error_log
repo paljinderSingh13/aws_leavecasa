@@ -1,0 +1,8 @@
+[17-Mar-2020 08:41:29 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Generator/MockConfigurationTest.php on line 26
+[18-Mar-2020 07:23:41 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Generator/MockConfigurationBuilderTest.php on line 28
+[14-Aug-2020 09:17:12 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Generator/DefinedTargetClassTest.php on line 27
+[14-Aug-2020 10:33:57 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Generator/MockConfigurationBuilderTest.php on line 28
+[14-Aug-2020 11:54:05 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Generator/MockConfigurationTest.php on line 26
+[12-Dec-2020 21:26:31 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Generator/DefinedTargetClassTest.php on line 27
+[12-Dec-2020 22:42:18 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Generator/MockConfigurationBuilderTest.php on line 28
+[13-Dec-2020 00:01:30 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Generator/MockConfigurationTest.php on line 26

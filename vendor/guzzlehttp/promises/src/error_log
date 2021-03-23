@@ -1,0 +1,13 @@
+[15-Mar-2020 10:17:50 UTC] PHP Fatal error:  Class 'GuzzleHttp\Promise\RejectionException' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/CancellationException.php on line 7
+[15-Mar-2020 11:39:10 UTC] PHP Fatal error:  Class 'GuzzleHttp\Promise\RejectionException' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/AggregateException.php on line 7
+[15-Mar-2020 21:37:54 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 10
+[16-Mar-2020 12:16:25 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/Coroutine.php on line 43
+[22-Mar-2020 22:16:39 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/Promise.php on line 9
+[23-Mar-2020 05:36:25 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 10
+[25-Mar-2020 20:44:46 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/Promise.php on line 9
+[28-Mar-2020 14:11:10 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\TaskQueueInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php on line 13
+[28-Mar-2020 16:55:34 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/EachPromise.php on line 8
+[05-Dec-2020 21:56:09 UTC] PHP Fatal error:  Class 'GuzzleHttp\Promise\RejectionException' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/AggregateException.php on line 7
+[08-Dec-2020 11:07:37 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/EachPromise.php on line 8
+[13-Dec-2020 15:46:13 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 10
+[14-Dec-2020 17:33:02 UTC] PHP Fatal error:  Interface 'GuzzleHttp\Promise\TaskQueueInterface' not found in /home/leavecasa/public_html/vendor/guzzlehttp/promises/src/TaskQueue.php on line 13

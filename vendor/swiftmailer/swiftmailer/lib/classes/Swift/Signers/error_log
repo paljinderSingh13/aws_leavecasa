@@ -1,0 +1,5 @@
+[15-Sep-2020 14:29:32 UTC] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 16
+[15-Sep-2020 14:48:28 UTC] PHP Fatal error:  Interface 'Swift_Signers_BodySigner' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 18
+[15-Sep-2020 14:57:56 UTC] PHP Fatal error:  Interface 'Swift_Signer' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[15-Sep-2020 15:08:47 UTC] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 16
+[15-Sep-2020 15:16:52 UTC] PHP Fatal error:  Class 'Swift_Signers_DKIMSigner' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 17

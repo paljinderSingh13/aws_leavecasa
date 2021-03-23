@@ -1,0 +1,1 @@
+[16-Sep-2020 09:23:37 UTC] PHP Fatal error:  Class 'Doctrine\DBAL\Schema\AbstractAsset' not found in /home/leavecasa/public_html/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/Column.php on line 37

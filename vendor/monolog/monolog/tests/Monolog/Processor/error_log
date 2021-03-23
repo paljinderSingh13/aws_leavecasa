@@ -1,0 +1,6 @@
+[02-Dec-2020 17:52:12 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/leavecasa/public_html/vendor/monolog/monolog/tests/Monolog/Processor/MercurialProcessorTest.php on line 16
+[02-Dec-2020 21:00:44 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/leavecasa/public_html/vendor/monolog/monolog/tests/Monolog/Processor/MemoryUsageProcessorTest.php on line 16
+[05-Dec-2020 21:40:28 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/leavecasa/public_html/vendor/monolog/monolog/tests/Monolog/Processor/IntrospectionProcessorTest.php on line 33
+[07-Dec-2020 11:46:06 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/leavecasa/public_html/vendor/monolog/monolog/tests/Monolog/Processor/MemoryPeakUsageProcessorTest.php on line 16
+[13-Dec-2020 23:18:34 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/leavecasa/public_html/vendor/monolog/monolog/tests/Monolog/Processor/MemoryUsageProcessorTest.php on line 16
+[13-Dec-2020 23:23:39 UTC] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/leavecasa/public_html/vendor/monolog/monolog/tests/Monolog/Processor/MemoryPeakUsageProcessorTest.php on line 16

@@ -1,0 +1,11 @@
+[13-Nov-2020 06:32:08 UTC] PHP Fatal error:  Class 'Laravel\Socialite\AbstractUser' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/User.php on line 7
+[14-Nov-2020 23:11:49 UTC] PHP Fatal error:  Class 'Laravel\Socialite\Two\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/GithubProvider.php on line 8
+[15-Nov-2020 08:23:12 UTC] PHP Fatal error:  Class 'Laravel\Socialite\Two\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/FacebookProvider.php on line 8
+[18-Nov-2020 03:18:55 UTC] PHP Fatal error:  Class 'Laravel\Socialite\Two\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/GoogleProvider.php on line 7
+[20-Nov-2020 01:55:43 UTC] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\Provider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/AbstractProvider.php on line 13
+[25-Nov-2020 09:18:01 UTC] PHP Fatal error:  Class 'Laravel\Socialite\Two\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/LinkedInProvider.php on line 7
+[29-Nov-2020 22:42:58 UTC] PHP Fatal error:  Class 'Laravel\Socialite\Two\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/GoogleProvider.php on line 7
+[01-Dec-2020 22:28:00 UTC] PHP Fatal error:  Class 'Laravel\Socialite\AbstractUser' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/User.php on line 7
+[05-Dec-2020 03:43:19 UTC] PHP Fatal error:  Class 'Laravel\Socialite\AbstractUser' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/User.php on line 7
+[05-Dec-2020 16:57:02 UTC] PHP Fatal error:  Class 'Laravel\Socialite\Two\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/BitbucketProvider.php on line 8
+[07-Dec-2020 17:24:42 UTC] PHP Fatal error:  Class 'Laravel\Socialite\Two\AbstractProvider' not found in /home/leavecasa/public_html/vendor/laravel/socialite/src/Two/GithubProvider.php on line 8

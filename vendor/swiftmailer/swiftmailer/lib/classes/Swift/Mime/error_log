@@ -1,0 +1,1 @@
+[18-Sep-2020 16:24:37 UTC] PHP Fatal error:  Interface 'Swift_Mime_CharsetObserver' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMimeEntity.php on line 16

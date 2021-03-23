@@ -1,0 +1,2 @@
+[01-Sep-2020 00:25:42 UTC] PHP Fatal error:  Interface 'SebastianBergmann\Diff\Exception' not found in /home/leavecasa/public_html/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 13
+[26-Nov-2020 17:12:19 UTC] PHP Fatal error:  Interface 'SebastianBergmann\Diff\Exception' not found in /home/leavecasa/public_html/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 13

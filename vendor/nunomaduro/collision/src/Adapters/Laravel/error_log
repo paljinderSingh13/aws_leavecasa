@@ -1,0 +1,7 @@
+[29-Feb-2020 17:22:48 UTC] PHP Fatal error:  Class 'Whoops\Exception\Inspector' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Inspector.php on line 21
+[03-Mar-2020 18:25:56 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php on line 28
+[04-Mar-2020 14:47:08 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php on line 27
+[12-Sep-2020 19:31:16 UTC] PHP Fatal error:  Class 'Whoops\Exception\Inspector' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Inspector.php on line 21
+[13-Sep-2020 21:04:56 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php on line 28
+[15-Sep-2020 01:43:05 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php on line 27
+[06-Dec-2020 05:41:28 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home/leavecasa/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php on line 27

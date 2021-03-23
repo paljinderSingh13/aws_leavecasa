@@ -1,0 +1,1 @@
+[24-Aug-2020 00:52:58 UTC] PHP Fatal error:  Class 'Mockery\Adapter\Phpunit\MockeryTestCase' not found in /home/leavecasa/public_html/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableReturnType.php on line 26

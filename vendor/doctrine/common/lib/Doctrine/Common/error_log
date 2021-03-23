@@ -1,0 +1,1 @@
+[07-Dec-2020 23:40:50 UTC] PHP Fatal error:  Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/leavecasa/public_html/vendor/doctrine/common/lib/Doctrine/Common/Lexer.php on line 35

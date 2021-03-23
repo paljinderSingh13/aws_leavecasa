@@ -1,0 +1,1 @@
+[19-Dec-2020 03:38:03 UTC] PHP Fatal error:  Class 'PhpParser\Lexer' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 8

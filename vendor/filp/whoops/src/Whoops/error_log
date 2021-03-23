@@ -1,0 +1,2 @@
+[22-Nov-2020 17:52:14 UTC] PHP Fatal error:  Interface 'Whoops\RunInterface' not found in /home/leavecasa/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 18
+[02-Dec-2020 12:36:32 UTC] PHP Fatal error:  Interface 'Whoops\RunInterface' not found in /home/leavecasa/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 18

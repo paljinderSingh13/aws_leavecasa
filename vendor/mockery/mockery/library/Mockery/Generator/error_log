@@ -1,0 +1,4 @@
+[13-Sep-2020 16:21:28 UTC] PHP Fatal error:  Interface 'Mockery\Generator\TargetClassInterface' not found in /home/leavecasa/public_html/vendor/mockery/mockery/library/Mockery/Generator/UndefinedTargetClass.php on line 23
+[13-Sep-2020 21:42:47 UTC] PHP Fatal error:  Interface 'Mockery\Generator\Generator' not found in /home/leavecasa/public_html/vendor/mockery/mockery/library/Mockery/Generator/CachingGenerator.php on line 23
+[15-Sep-2020 06:07:46 UTC] PHP Fatal error:  Interface 'Mockery\Generator\Generator' not found in /home/leavecasa/public_html/vendor/mockery/mockery/library/Mockery/Generator/StringManipulationGenerator.php on line 36
+[15-Sep-2020 22:32:19 UTC] PHP Fatal error:  Interface 'Mockery\Generator\TargetClassInterface' not found in /home/leavecasa/public_html/vendor/mockery/mockery/library/Mockery/Generator/DefinedTargetClass.php on line 23

@@ -1,0 +1,64 @@
+[16-Nov-2019 04:04:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/api.php on line 16
+[16-Nov-2019 04:08:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/web.php on line 13
+[16-Nov-2019 04:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/web_o.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/web_o.php on line 14
+[16-Nov-2019 04:20:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/leavecasa/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/console.php on line 16
+[16-Nov-2019 04:22:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/leavecasa/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/channels.php on line 14
+[21-Nov-2019 05:48:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/web.php on line 13
+[21-Nov-2019 23:29:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/web.php on line 13
+[22-Nov-2019 02:51:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/web_o.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/web_o.php on line 14
+[02-Dec-2019 00:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/api_o.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/api_o.php on line 16
+[04-Mar-2020 20:19:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/api.php on line 16
+[04-Mar-2020 21:46:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/web.php on line 16
+[05-Mar-2020 20:19:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/leavecasa/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/channels.php on line 14
+[06-Mar-2020 06:24:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/leavecasa/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/console.php on line 16
+[04-Apr-2020 09:16:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/leavecasa/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/channels.php on line 14
+[04-Apr-2020 09:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/leavecasa/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/console.php on line 16
+[14-Apr-2020 20:48:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/leavecasa/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/routes/api.php on line 16

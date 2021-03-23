@@ -1,0 +1,1 @@
+[15-Sep-2020 13:42:12 UTC] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/leavecasa/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 16

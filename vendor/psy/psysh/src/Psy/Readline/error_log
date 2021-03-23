@@ -1,0 +1,4 @@
+[14-Sep-2020 22:52:19 UTC] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Readline/GNUReadline.php on line 21
+[14-Sep-2020 23:20:43 UTC] PHP Fatal error:  Class 'Psy\Readline\GNUReadline' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Readline/Libedit.php on line 23
+[15-Sep-2020 00:08:02 UTC] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Readline/Transient.php on line 19
+[15-Sep-2020 00:36:26 UTC] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Readline/HoaConsole.php on line 20

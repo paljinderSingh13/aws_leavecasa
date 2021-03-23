@@ -1,0 +1,5 @@
+[03-Nov-2020 05:53:12 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionPresentBundle/Command/BarCommand.php on line 12
+[03-Nov-2020 10:58:20 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionPresentBundle/Command/FooCommand.php on line 16
+[16-Nov-2020 19:24:29 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionPresentBundle/Command/BarCommand.php on line 12
+[21-Nov-2020 12:14:24 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionPresentBundle/Command/BarCommand.php on line 12
+[22-Nov-2020 21:44:36 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Tests/Fixtures/ExtensionPresentBundle/Command/FooCommand.php on line 16

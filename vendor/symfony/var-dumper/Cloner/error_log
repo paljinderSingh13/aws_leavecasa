@@ -1,0 +1,12 @@
+[15-Mar-2020 15:37:58 UTC] PHP Fatal error:  Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[16-Mar-2020 16:19:24 UTC] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\AbstractCloner' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[19-Mar-2020 11:58:49 UTC] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\AbstractCloner' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[03-Apr-2020 00:52:17 UTC] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\AbstractCloner' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[09-Oct-2020 13:45:55 UTC] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\AbstractCloner' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[27-Oct-2020 18:44:40 UTC] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\AbstractCloner' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[29-Oct-2020 20:50:55 UTC] PHP Fatal error:  Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[02-Nov-2020 08:56:34 UTC] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\AbstractCloner' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[04-Nov-2020 01:57:24 UTC] PHP Fatal error:  Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[04-Dec-2020 01:09:52 UTC] PHP Fatal error:  Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[04-Dec-2020 09:01:26 UTC] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\AbstractCloner' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[11-Dec-2020 10:01:04 UTC] PHP Fatal error:  Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/leavecasa/public_html/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22

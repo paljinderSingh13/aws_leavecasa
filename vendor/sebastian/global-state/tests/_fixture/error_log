@@ -1,0 +1,2 @@
+[03-Dec-2020 11:49:52 UTC] PHP Fatal error:  Interface 'SebastianBergmann\GlobalState\TestFixture\BlacklistedInterface' not found in /home/leavecasa/public_html/vendor/sebastian/global-state/tests/_fixture/BlacklistedImplementor.php on line 15
+[08-Dec-2020 23:03:41 UTC] PHP Fatal error:  Class 'SebastianBergmann\GlobalState\TestFixture\BlacklistedClass' not found in /home/leavecasa/public_html/vendor/sebastian/global-state/tests/_fixture/BlacklistedChildClass.php on line 15

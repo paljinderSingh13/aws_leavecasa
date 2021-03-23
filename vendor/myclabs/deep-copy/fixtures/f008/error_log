@@ -1,0 +1,2 @@
+[22-Nov-2020 12:13:51 UTC] PHP Fatal error:  Class 'DeepCopy\f008\A' not found in /home/leavecasa/public_html/vendor/myclabs/deep-copy/fixtures/f008/B.php on line 5
+[04-Dec-2020 01:52:00 UTC] PHP Fatal error:  Class 'DeepCopy\f008\A' not found in /home/leavecasa/public_html/vendor/myclabs/deep-copy/fixtures/f008/B.php on line 5

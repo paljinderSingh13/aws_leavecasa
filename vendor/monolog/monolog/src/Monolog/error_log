@@ -1,0 +1,6 @@
+[13-Sep-2020 02:08:53 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/leavecasa/public_html/vendor/monolog/monolog/src/Monolog/Logger.php on line 27
+[31-Oct-2020 02:26:00 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/leavecasa/public_html/vendor/monolog/monolog/src/Monolog/Logger.php on line 27
+[06-Nov-2020 03:38:38 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/leavecasa/public_html/vendor/monolog/monolog/src/Monolog/Logger.php on line 27
+[19-Nov-2020 18:46:24 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/leavecasa/public_html/vendor/monolog/monolog/src/Monolog/Logger.php on line 27
+[02-Dec-2020 10:18:14 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/leavecasa/public_html/vendor/monolog/monolog/src/Monolog/Logger.php on line 27
+[03-Dec-2020 02:15:50 UTC] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/leavecasa/public_html/vendor/monolog/monolog/src/Monolog/Logger.php on line 27

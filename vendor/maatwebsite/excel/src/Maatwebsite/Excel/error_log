@@ -1,0 +1,6 @@
+[06-Sep-2020 15:45:01 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/ExcelServiceProvider.php on line 29
+[12-Sep-2020 09:44:42 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/ExcelServiceProvider.php on line 29
+[17-Sep-2020 06:57:56 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/ExcelServiceProvider.php on line 29
+[17-Oct-2020 14:17:26 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/ExcelServiceProvider.php on line 29
+[22-Oct-2020 09:05:30 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/ExcelServiceProvider.php on line 29
+[08-Dec-2020 12:53:00 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/leavecasa/public_html/vendor/maatwebsite/excel/src/Maatwebsite/Excel/ExcelServiceProvider.php on line 29

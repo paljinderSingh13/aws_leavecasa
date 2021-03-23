@@ -1,0 +1,3 @@
+[04-Dec-2020 03:00:03 UTC] PHP Fatal error:  Class 'PhpParser\NodeAbstract' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[08-Dec-2020 00:42:58 UTC] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[15-Dec-2020 11:45:45 UTC] PHP Fatal error:  Class 'PhpParser\Node\Expr' not found in /home/leavecasa/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5

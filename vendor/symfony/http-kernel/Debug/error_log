@@ -1,0 +1,4 @@
+[19-Mar-2020 14:50:22 UTC] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 25
+[22-Sep-2020 02:02:04 UTC] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 25
+[06-Nov-2020 08:58:40 UTC] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 25
+[20-Nov-2020 00:39:57 UTC] PHP Fatal error:  Class 'Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher' not found in /home/leavecasa/public_html/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 25

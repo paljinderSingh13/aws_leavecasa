@@ -1,0 +1,51 @@
+[16-Aug-2020 03:37:55 UTC] PHP Fatal error:  Uncaught Exception: boo in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/Throwing.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/Throwing.php on line 3
+[16-Aug-2020 08:05:25 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[16-Aug-2020 10:41:47 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[18-Aug-2020 04:04:44 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[20-Aug-2020 13:34:12 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[21-Aug-2020 19:23:33 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[22-Aug-2020 22:21:12 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[24-Aug-2020 13:55:02 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[26-Aug-2020 12:46:09 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[29-Aug-2020 09:04:08 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[29-Aug-2020 11:32:09 UTC] PHP Fatal error:  Trait 'Symfony\Component\Debug\Tests\Fixtures\InternalTrait2' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/InternalClass.php on line 10
+[01-Sep-2020 13:07:54 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[03-Sep-2020 11:44:41 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[03-Sep-2020 21:25:40 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[03-Sep-2020 22:29:03 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[05-Sep-2020 13:01:27 UTC] PHP Fatal error:  Trait 'Symfony\Component\Debug\Tests\Fixtures\InternalTrait2' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/InternalClass.php on line 10
+[06-Sep-2020 11:19:49 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[08-Sep-2020 11:32:26 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[09-Sep-2020 11:46:34 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[11-Sep-2020 02:12:18 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[11-Sep-2020 07:31:08 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[11-Sep-2020 07:31:20 UTC] PHP Fatal error:  Trait 'Symfony\Component\Debug\Tests\Fixtures\InternalTrait2' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/InternalClass.php on line 10
+[11-Sep-2020 07:32:28 UTC] PHP Fatal error:  Uncaught Exception: boo in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/Throwing.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/Throwing.php on line 3
+[11-Sep-2020 07:33:38 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[11-Sep-2020 07:34:49 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[11-Sep-2020 12:22:39 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[12-Sep-2020 01:54:03 UTC] PHP Fatal error:  Uncaught Exception: boo in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/Throwing.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/Throwing.php on line 3
+[18-Sep-2020 02:14:25 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[24-Sep-2020 16:16:31 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[12-Oct-2020 10:43:52 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[28-Oct-2020 15:46:25 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[30-Oct-2020 18:20:45 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[04-Nov-2020 11:28:17 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[10-Nov-2020 08:34:07 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[17-Nov-2020 05:55:48 UTC] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[20-Nov-2020 17:03:30 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[30-Nov-2020 20:13:07 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[02-Dec-2020 10:34:00 UTC] PHP Fatal error:  Trait 'Symfony\Component\Debug\Tests\Fixtures\InternalTrait2' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/InternalClass.php on line 10
+[07-Dec-2020 10:37:01 UTC] PHP Fatal error:  Trait 'Symfony\Component\Debug\Tests\Fixtures\InternalTrait2' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/InternalClass.php on line 10
+[07-Dec-2020 22:38:36 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[07-Dec-2020 23:25:18 UTC] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[12-Dec-2020 23:55:31 UTC] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/leavecasa/public_html/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5

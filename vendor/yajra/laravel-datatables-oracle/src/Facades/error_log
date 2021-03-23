@@ -1,0 +1,2 @@
+[10-Mar-2020 22:47:49 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/leavecasa/public_html/vendor/yajra/laravel-datatables-oracle/src/Facades/DataTables.php on line 15
+[04-Nov-2020 12:38:18 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/leavecasa/public_html/vendor/yajra/laravel-datatables-oracle/src/Facades/DataTables.php on line 15

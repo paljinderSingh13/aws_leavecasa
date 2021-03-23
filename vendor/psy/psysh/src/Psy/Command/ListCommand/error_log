@@ -1,0 +1,2 @@
+[11-Dec-2020 02:58:30 UTC] PHP Fatal error:  Class 'Psy\Command\ListCommand\Enumerator' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/ListCommand/ClassConstantEnumerator.php on line 20
+[14-Dec-2020 08:05:16 UTC] PHP Fatal error:  Class 'Psy\Command\ListCommand\Enumerator' not found in /home/leavecasa/public_html/vendor/psy/psysh/src/Psy/Command/ListCommand/MethodEnumerator.php on line 19
