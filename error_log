@@ -1,0 +1,18 @@
+[18-Feb-2021 06:28:13 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
+[18-Feb-2021 06:35:37 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
+[18-Feb-2021 06:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:671
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('help', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('help', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(290): Symfony\Component\Console\Helper\Helper::strlen('help')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(97): Symfony\Component\Console\Descriptor\TextDescriptor->calculateTotalWidthForOptions(Array)
+#4 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Descriptor/TextDescriptor.php(189): Symfony\Component\Console\Descriptor\TextDescriptor->describeInputDefinition(Object(Symfony\Component\Cons in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[18-Feb-2021 06:46:30 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
+[18-Feb-2021 07:01:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:671
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Symfony\\Comp...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Symfony\\Comp...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(646): Symfony\Component\Console\Helper\Helper::strlen('  [Symfony\\Comp...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Symfony\Component\Finder\Exception\AccessDeniedException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(104): Symfony\Component\ in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[18-Feb-2021 07:05:23 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 4096 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
