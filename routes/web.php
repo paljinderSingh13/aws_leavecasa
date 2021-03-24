@@ -31,7 +31,7 @@ Route::group(['domain' => '{agency}.leavecasa.com'], function () {
             Route::get('dashboard', 'DashboardController@index')->middleware('agency')->name('dashboard');
 
         //hotel Markup
-        
+
             Route::get('agent', 'AgenyHotelMarkup@index')->name('agency.markup');
         });
      });
@@ -69,8 +69,8 @@ Route::group(['namespace'=>'Administrator','prefix'=>'administrator'], function(
         return view('administrator.agency.agency');
     })->name('add-agency');
 
-//Package 
-   
+//Package
+
     Route::get('/packages',['as'=>'packages.add','uses'=>'Package\PackageController@index']);
      Route::post('package-add','Package\PackageController@store')->name('package.store');
      Route::get('get_cities/{country_id?}','Package\PackageController@get_city')->name('country.city');
@@ -88,7 +88,7 @@ Route::group(['namespace'=>'Administrator','prefix'=>'administrator'], function(
     Route::group(['middleware'=>'auth'], function(){
 
         Route::get('/',['as'=>'dashboard','uses'=>'Dashboard\DashboardController@index']);
-        
+
         Route::group(['namespace'=>'Accounts','prefix'=>'accounts'], function(){
 
             Route::group(['module'=>'role'], function(){
@@ -120,7 +120,7 @@ Route::group(['namespace'=>'Administrator','prefix'=>'administrator'], function(
 
         });
 
-      
+
 
         Route::group(['namespace'=>'Employee', 'prefix'=>'employees'], function(){
             Route::group(['module'=>'employees'], function(){
@@ -164,7 +164,7 @@ Route::group(['namespace'=>'Administrator','prefix'=>'administrator'], function(
             Route::group(['module'=>'booking-status'], function(){
                 Route::get('flight',['as'=>'booked.flights.list','uses'=>'BookingStatusController@bookedFlights','action'=>'flight-status']);
                 Route::get('cancel-flight/{booking_id}/{source}',['as'=>'cancel.flight.booking','uses'=>'BookingStatusController@cancelFlight','action'=>'cancel-flight']);
-            }); 
+            });
         });
 
         Route::group(['namespace'=>'ApiSettings','prefix'=>'apisettings'], function(){
@@ -207,8 +207,8 @@ Route::group(['namespace'=>'Administrator','prefix'=>'administrator'], function(
 
 Route::group(['namespace'=>'Customers','prefix'=>'customers'], function(){
     Route::group(['module'=>'customers'], function(){
-        Route::post('create',['as'=>'create.customer','uses'=>'CustomerController@create']); 
-        Route::post('login_by_email',['as'=>'login.by.email.mobile','uses'=>'CustomerController@loginByEmailOrMobile']); 
+        Route::post('create',['as'=>'create.customer','uses'=>'CustomerController@create']);
+        Route::post('login_by_email',['as'=>'login.by.email.mobile','uses'=>'CustomerController@loginByEmailOrMobile']);
         Route::post('login',['as'=>'login.customer','uses'=>'CustomerController@login']);
         Route::get('logout',['as'=>'logout.customer','uses'=>'CustomerController@logout']);
         Route::group(['middleware'=>'customer'], function(){
@@ -226,7 +226,7 @@ Route::group(['namespace'=>'website'], function(){
     Route::post('recheck-hotel/{parm?}','WebsiteController@hotel_recheck')->name('hotel.recheck');
     Route::get('flight_city/{parm?}','FlightController@flight_city')->name('flight.city');
     Route::get('flight_city_code/{parm?}','FlightController@city_code')->name('flight.citycode');
-    
+
     Route::get('bus_city_source/{parm?}','BusCitySourceController@bus_city')->name('bus.city');
     Route::get('bus_destination/{parm?}','BusCitySourceController@get_bus_destination')->name('bus.destination');
 
@@ -240,10 +240,10 @@ Route::post('bus-fare-payment','BusCitySourceController@bus_payment')->name('bus
     Route::match(['get','post'],'/book/hotel',['as'=>'book.customer.hotel.now','uses'=>'WebsiteController@hotel_payment']);
 
     Route::post('/payment', ['uses'=>'WebsiteController@payment'])->name('hotel.payment');
-    
+
     Route::match(['get','post'],'/hotel-payment', ['uses'=>'WebsiteController@hotel_payment'])->name('hotel.final.book');
     //Route::match(['get','post'],'/book_info/{processing_id?}', ['uses'=>'WebsiteController@final_book'])->name('hotel.final.book');
-   
+
     Route::post('/non-bundle-booking', ['uses'=>'WebsiteController@non_bundle_booking'])->name('hotel.nonbunde.book');
 
 
@@ -252,10 +252,7 @@ Route::post('bus-fare-payment','BusCitySourceController@bus_payment')->name('bus
     Route::any('/book', ['uses'=>'WebsiteController@hotel_book'])->name('hotel.book');
     Route::get('/hotel/{sid}/{code}', ['uses'=>'WebsiteController@hotel_detail'])->name('hotel.detail');
 
-    Route::get('/get_search/{parm?}', function(){
-
-        return 'hello';
-    })->name('search.city');
+    Route::get('/get_search/{parm?}', ['uses'=>'WebsiteController@search_data'])->name('search.city');
     Route::get('/get_code/{parm?}', ['uses'=>'WebsiteController@get_code'])->name('city.code');
     Route::get('/', ['as'=>'index','uses'=>'WebsiteController@index']);
 
@@ -272,10 +269,10 @@ Route::post('bus-fare-payment','BusCitySourceController@bus_payment')->name('bus
 
 
     Route::get('flight/book/success',['as'=>'fight.book.success','uses'=>'WebsiteController@flightBookedSuccess']);
-    
-    
-    
-    
+
+
+
+
     Route::post('bus/seat/details/{bus_id}',['as'=>'bus.seat.details','uses'=>'BusCitySourceController@getSeatDetails']);
     Route::post('bus/block_key',['as'=>'bus.block','uses'=>'BusCitySourceController@generate_block_key']);
     Route::match(['get','post'],'/bus/passengers',['as'=>'bus.booking.passengers','uses'=>'BusCitySourceController@busBokingPassenger']);
@@ -304,7 +301,7 @@ Route::group(['namespace'=>'Agency','prefix'=>'agency'], function(){
         Route::get('ag', 'LoginController@agency')->middleware('agency')->name('agency');
 
     //hotel Markup
-    
+
         Route::get('agent', 'AgenyHotelMarkup@index')->name('agency.markup');
 
 });
