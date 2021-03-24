@@ -1,0 +1,145 @@
+Flight api 
+
+
+Search Request
+===============
+{"EndUserIp": "202.14.121.198", "TokenId": "94bf6f21-a59d-48bb-b98f-c17afedb769b", "AdultCount": "1", "ChildCount": "0", "InfantCount": "0", "DirectFlight": "false", "OneStopFlight": "false", "JourneyType": "1", "PreferredAirlines": ["SG"], "Segments": [{"Origin": "BOM", "Destination": "DEL", "FlightCabinClass": "1", "PreferredDepartureTime": "2019-03-27T00: 00: 00", "PreferredArrivalTime":"2019-03-27T00:00: 00"}] }
+
+
+Fare rule Request
+=================
+
+{"EndUserIp": "202.14.121.198", "TokenId": "94bf6f21-a59d-48bb-b98f-c17afedb769b", "TraceId": "3b3575f3-d07d-4b9b-acea-f545476a3124", "ResultIndex": "OB1"}
+
+
+Fare Quote Request
+===================
+
+{"EndUserIp": "202.14.121.198", "TokenId": "94bf6f21-a59d-48bb-b98f-c17afedb769b", "TraceId": "3b3575f3-d07d-4b9b-acea-f545476a3124", "ResultIndex": "OB1"}
+
+
+SSR Request 
+============
+
+{"EndUserIp": "202.14.121.198", "TokenId": "94bf6f21-a59d-48bb-b98f-c17afedb769b", "TraceId": "3b3575f3-d07d-4b9b-acea-f545476a3124", "ResultIndex": "OB1"}
+
+
+book
+
+Ticket Request
+===============
+
+{"EndUserIp": "202.14.121.198", "TokenId": "94bf6f21-a59d-48bb-b98f-c17afedb769b", "TraceId": "3b3575f3-d07d-4b9b-acea-f545476a3124", "ResultIndex": "OB1", "Passengers": [{"Title": "Mr", "FirstName": "mandhir", "LastName": "dhillon", "PaxType": 1, "DateOfBirth": "1987-12-06T00:00:00", "Gender": 1, "PassportNo": "KJHHJKHKJH", "PassportExpiry":"2020-12-06T00:00:00", "AddressLine1": "123, Test", "AddressLine2": "", "City": "Gurgaon", "CountryCode": "IN", "CountryName": "India", "Nationality": "IN", "ContactNo": "9879879877", "Email": "harsh@tbtq.in", "IsLeadPax": true, "FFAirlineCode": null, "FFNumber": "", "GSTCompanyAddress": "", "GSTCompanyContactNumber": "", "GSTCompanyName": "", "GSTNumber": "", "GSTCompanyEmail": "", "Fare": {"Currency": "INR", "BaseFare": 2280, "Tax": 935, "YQTax": 400, "AdditionalTxnFeePub": 0.0, "AdditionalTxnFeeOfrd": 0.0, "OtherCharges": 224, "Discount": 0, "PublishedFare": 3439, "OfferedFare": 3291.99, "TdsOnCommission":21.34, "TdsOnPLB": 22.32, "TdsOnIncentive": 15.14, "ServiceFee": 0 } } ] }
+
+
+MObile Api ticket for LCC
+
+{
+
+"TraceId": "5cfdf80d-7b55-4e9d-a6c1-21f091dc6ee7",
+"ResultIndex": "OB1",
+ "Passengers": [{"Title": "Mr",
+				"FirstName": "mandhir",
+				"LastName": "dhillon",
+				"PaxType": 1,
+				"DateOfBirth": "1987-12-06T00:00:00",
+				"Gender": 1,
+				"PassportNo": "KJHHJKHKJH",
+				"PassportExpiry":"2020-12-06T00:00:00",
+				"AddressLine1": "123, Test",
+				"AddressLine2": "",
+				"City": "Gurgaon",
+				"CountryCode": "IN",
+				"CountryName": "India",
+				"Nationality": "IN",
+				"ContactNo": "9879879877",
+				"Email": "harsh@tbtq.in",
+				"IsLeadPax": true,
+				"FFAirlineCode": null,
+				"FFNumber": "",
+				"GSTCompanyAddress": "",
+				"GSTCompanyContactNumber": "",
+				"GSTCompanyName": "",
+				"GSTNumber": "",
+				"GSTCompanyEmail": "",
+				"Fare": 
+						{
+						"Currency": "INR",
+						"BaseFare": 2280,
+						"Tax": 935,
+						"YQTax": 400,
+						"AdditionalTxnFeePub": 0.0,
+						"AdditionalTxnFeeOfrd": 0.0,
+						"OtherCharges": 224, "Discount": 0, "PublishedFare": 3439, "OfferedFare": 3291.99, "TdsOnCommission":21.34, "TdsOnPLB": 22.32, "TdsOnIncentive": 15.14, "ServiceFee": 0 
+						} 
+						} ]
+}
+
+
+
+NON LCC 
+
+BOOK API 
+
+nlcc_book
+
+{
+	"TokenId": "2abbe90b-7984-4442-a96a-cd7d32554076",
+	"ResultIndex": "OB48",
+	"Passengers": [{
+		"Title": "Mr",
+		"FirstName": "hgjsshsxsgjh",
+		"LastName": "tbotest",
+		"PaxType": 1,
+		"DateOfBirth": "1987-12-06T00:00:00",
+		"Gender": 1,
+		"PassportNo": "KJHHJKHKJH",
+		"PassportExpiry": "2020-12-06T00:00:00",
+		"AddressLine1": "123, Test",
+		"AddressLine2": "",
+		"Fare": {
+			"Currency": "INR",
+			"BaseFare": 3171.0,
+			"Tax": 1284.0,
+			"YQTax": 0.0,
+			"AdditionalTxnFeePub": 0.0,
+			"AdditionalTxnFeeOfrd": 0.0,
+			"OtherCharges": 116.96,
+			"Discount": 0.0,
+			"PublishedFare": 4581.96,
+			"OfferedFare": 4355.03,
+			"TdsOnCommission": 6.34,
+			"TdsOnPLB": 9.14,
+			"TdsOnIncentive": 6.22,
+			"ServiceFee": 10.0
+		},
+		"City": "Gurgaon",
+		"CountryCode": "IN",
+		"CountryName": "India",
+		"Nationality": "IN",
+		"ContactNo": "9879879877",
+		"Email": "harsh@tbtq.in",
+		"IsLeadPax": true,
+		"FFAirlineCode": null,
+		"FFNumber": "",
+		"GSTCompanyAddress": "",
+		"GSTCompanyContactNumber": "",
+		"GSTCompanyName": "",
+		"GSTNumber": "",
+		"GSTCompanyEmail": ""
+	}],
+	"EndUserIp": "192.168.11.58",
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
