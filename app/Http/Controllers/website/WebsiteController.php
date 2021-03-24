@@ -177,7 +177,7 @@ class WebsiteController extends Controller
 
     public function index(){
 
-        $data = HotelInfo::where('id',2)->first();
+        $data = SearchData::where('id',1)->first();
 
         dump($data);
 
