@@ -177,7 +177,9 @@ class WebsiteController extends Controller
 
     public function index(){
 
-        HotelInfo
+        $data = HotelInfo::find(1);
+
+        dd($data);
 
         return view('frontend.pages.index');
             // ,['countries'=>collect($countries['countries'])->pluck('name','code')]);
