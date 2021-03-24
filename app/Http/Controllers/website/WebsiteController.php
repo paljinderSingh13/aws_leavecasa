@@ -33,9 +33,9 @@ class WebsiteController extends Controller
         // echo '<p>sand box api</p>';
       ini_set('memory_limit','-1');
     }
-    
+
     public function  hotel_detail( $sid , $code){
-      
+
         $hotel_req  = Session::get('hotel_req');
         // dd($hotel_req);
         unset($hotel_req['destination_code']);
@@ -68,7 +68,7 @@ class WebsiteController extends Controller
                 'Accept' => 'application/json',
                 'Accept-Encoding' => 'application/json'
             ]
-            
+
         ]);
 
         $response = $hotel_res->getBody()->getContents();
@@ -80,7 +80,7 @@ class WebsiteController extends Controller
         // dump($hotel);
             $error = $hotel['errors'];
         return  view('frontend.pages.hotel.hotel_detail', compact('error'));//redirect()->route('index');
-            
+
        }
 
 
@@ -97,7 +97,7 @@ class WebsiteController extends Controller
 
     public function check_status()
     {
-       return view('frontend.pages.booking_status'); 
+       return view('frontend.pages.booking_status');
     }
 
      public function hotel_book_status(Request $request)
@@ -114,7 +114,7 @@ class WebsiteController extends Controller
                 'Accept' => 'application/json',
                 'Accept-Encoding' => 'application/json'
             ]
-            
+
         ]);
 
          $response = $status_res->getBody()->getContents();
@@ -138,7 +138,7 @@ class WebsiteController extends Controller
                 'Accept' => 'application/json',
                 'Accept-Encoding' => 'application/json'
             ]
-            
+
         ]);
 
          $response = $cancel_res->getBody()->getContents();
@@ -176,6 +176,8 @@ class WebsiteController extends Controller
     }
 
     public function index(){
+
+        HotelInfo
 
         return view('frontend.pages.index');
             // ,['countries'=>collect($countries['countries'])->pluck('name','code')]);
@@ -218,7 +220,7 @@ class WebsiteController extends Controller
         }
         return response()->json(['cities'=>$cities,'destinations'=>$destinations]);
     }
-  
+
 
 
     protected function hotel_availablity($request , $hotel_codes){
@@ -237,7 +239,7 @@ class WebsiteController extends Controller
             "currency"=> "INR",
             'hotel_info' => true,
             'rates' => 'concise',
-            'hotel_category' => $hotel_category 
+            'hotel_category' => $hotel_category
         ];
 
 
@@ -252,13 +254,13 @@ class WebsiteController extends Controller
             $start++;
             // $rooms[$start]['children_ages'] = $rvalue['adults'];
         }
-    
+
         $jsonData['rooms'] = $rooms;
         $client = new Client();
 
         //https://api-sandbox.grnconnect.com/api/v3/hotels/availability
 
-         
+
         $res = $client->request('POST',$this->hotel_url.'availability',[
             'headers' => [
                 'Content-Type' => 'application/json',
@@ -272,8 +274,8 @@ class WebsiteController extends Controller
 
         Session::put('hotel_req',$jsonData);
         $results    =   json_decode($res->getBody()->getContents(),true);
-        
-       
+
+
       return $results;//->toArray();
     }
 
@@ -299,12 +301,12 @@ Session::put('orginal_request', $request->all());
         // 428090201958- 5231 07-22
 
  //              return redirect($url);
-         
+
 
         Hotel::hotel_log_session_start($request->code);
         Hotel::hotel_log('request_for', json_encode($request->toArray()));
         $no_of_hotels =0;
-        $hotel_detail= HotelInfo::where('city_code',$request->code)->pluck('code'); 
+        $hotel_detail= HotelInfo::where('city_code',$request->code)->pluck('code');
         $hotel_codes = $hotel_detail->toArray();
 
         // dump( json_encode($hotel_codes) );
@@ -315,7 +317,7 @@ Session::put('orginal_request', $request->all());
             $chunk_hotel_cod_size   = count($chunk);
             for($i=0; $i< $chunk_hotel_cod_size; $i++ ){
                  $new[$i] =  $hotel = $this->hotel_availablity($request,  $chunk[$i]);
-                
+
                  if($i==0){$parm = 'availability_response'; }
                  if($i==1){$parm = 'availability_response_one'; }
                  if($i==2){$parm = 'availability_response_two'; }
@@ -329,25 +331,25 @@ Session::put('orginal_request', $request->all());
                  if($i==10){$parm = 'availability_response_ten'; }
 
                 Hotel::hotel_log($parm , json_encode($hotel));
-                   // dump(1, $hotel);        
+                   // dump(1, $hotel);
                  if(!empty($hotel['no_of_hotels'])){
                     $no_of_hotels = $no_of_hotels + $hotel['no_of_hotels'];
                  }
                  if(!empty($hotel['errors'][0])) {
                         unset($new[$i]);
-             //          dump($hotel['errors'][0]); 
+             //          dump($hotel['errors'][0]);
                        // return view('website.pages.page-404');
                     }
             }
           // dd(json_encode($new));
             $hotel = $new;
         }else{
-            
+
            $hotel[] = $this->hotel_availablity($request,   $hotel_codes);
-           
+
             Hotel::hotel_log('availability_response' , json_encode($hotel));
 
-          
+
            if(!empty($hotel[0]['no_of_hotels'])) {
                 $no_of_hotels = $hotel[0]['no_of_hotels'];
             }
@@ -361,12 +363,12 @@ Session::put('orginal_request', $request->all());
 
         $mark_up = Hotel::hotel_mark_ups($request->code);
 
-       
+
 
         // dd($hotel);
 
          // Hotel::hotel_log('availability_response' , json_encode($hotel));
-        
+
         //return view('website.pages.search-result-hotel',['no_of_hotels'=>$no_of_hotels , 'results'=>$hotel, 'request'=> Session::get('hotel_req'),'mark_up'=>$mark_up ]);
         return view('frontend.pages.hotel.search-result-hotel',['no_of_hotels'=>$no_of_hotels , 'results'=>$hotel, 'request'=> Session::get('hotel_req'),'mark_up'=>$mark_up ]);
     }
@@ -384,7 +386,7 @@ Session::put('orginal_request', $request->all());
             'json'=>[
 
                 'rate_key'=>$request->rate_key,
-                'group_code'=>$request->group_code 
+                'group_code'=>$request->group_code
                  ]
         ]);
         $results    =   $res->getBody()->getContents();
@@ -403,7 +405,7 @@ $booking_item = [
                 'checkout'=> $sess['checkout'],
                 'booking_comments'=> "taskintttt",
                 'payment_type'=> "AT_WEB",
-                'group_code'=>$request->group_code, 
+                'group_code'=>$request->group_code,
                 'booking_items'=> [
                                     [   "room_code"=>$recheck['hotel']['rate']['room_code'],
                                         "rate_key"=>$recheck['hotel']['rate']['rate_key'],
@@ -469,7 +471,7 @@ $nclient = new Client();
                 'Accept' => 'application/json',
                 'Accept-Encoding' => 'application/json'
             ],
-           
+
         ]);
 
         $nresults    =   $nres->getBody()->getContents();
@@ -488,7 +490,7 @@ $nclient = new Client();
         }else{
            $req = $request =  Session::get('hrequest');
         }
-      
+
 
         $preserve = Session::get('rates');
        // dump($preserve);
@@ -519,9 +521,9 @@ $nclient = new Client();
         $checkout = $hotel['checkout'];
 
         $hotel_code = $request['hotel_code'];
-        $city_code  = $request['city_code']; 
-        $group_code  = $request['group_code']; 
-        $rate_key  = $request['rate_key']; 
+        $city_code  = $request['city_code'];
+        $group_code  = $request['group_code'];
+        $rate_key  = $request['rate_key'];
         $room_code  = $request['room_code'];
         $price  = @$request['price'];
 
@@ -535,7 +537,7 @@ $nclient = new Client();
                 'Accept-Encoding' => 'application/json'
             ],
             'json'=>[
-                    'rate_key'=> $request['rate_key'], 
+                    'rate_key'=> $request['rate_key'],
                     'group_code'=> $request['group_code']
                     ]
 
@@ -556,7 +558,7 @@ $nclient = new Client();
         if(!empty($recheck['errors'][0])){
             $error = $recheck['errors'];
             return view('frontend.pages.booking_form', compact('error'));
-        }            
+        }
 
 
        // dd($recheck);
@@ -593,9 +595,9 @@ return view('frontend.pages.booking_form', compact('recheck'));
                                          "room_code"=> $room_code,
                                          "rate_key"=> $rate_key,
                                          "rooms"=>  $request['room']['rooms'],
-                                      
+
                                 ]
-                            ], 
+                            ],
                         "holder"=>  [
                                         "title"=>   $request['holder']['title'],
                                         "name"=>    $request['holder']['name'],
@@ -604,7 +606,7 @@ return view('frontend.pages.booking_form', compact('recheck'));
                                         "phone_number"=> $request['holder']['phone_number'],
                                         "client_nationality"=> "IN"
                                     ]
-                       
+
                     ];
 
         Session::put('final_book', $reqData);
@@ -614,7 +616,7 @@ return view('frontend.pages.booking_form', compact('recheck'));
 
    public function non_bundle_booking(Request $request){
          // dd(json_encode($request->all()));
-        
+
 //dd($request->all());
 
    // $request['booking_name'] = "leavecasa Acme media";
@@ -680,7 +682,7 @@ return view('frontend.pages.booking_form', compact('recheck'));
     public function payment_response(request $request){
 //testing
        // return $this->final_book();
-       
+
 //live
         if($request['f_code'] == 'Ok'){
             return $this->final_book();
@@ -777,12 +779,12 @@ if(!empty($recheck['booking_id']) && !empty($recheck['booking_reference'])){
 
      if(!empty($recheck['errors'])){
                             $error = $recheck['errors'];
-                            
+
                                     Hotel::hotel_log('booking_error' , json_encode($error) );
 
                             return view('website.pages.error', compact('error'));
                         }
-} 
+}
 
 
         dump($recheck);
@@ -792,9 +794,9 @@ if(!empty($recheck['booking_id']) && !empty($recheck['booking_reference'])){
 
     }
 
-   
 
-   
+
+
 
 }
 // 446 4280902019585231 07/22
