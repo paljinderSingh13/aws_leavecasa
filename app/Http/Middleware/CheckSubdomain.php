@@ -27,7 +27,7 @@ class CheckSubdomain
        // dd($agency->exists());
 
        if($agency->exists()){
-            
+
           $data = $agency->first();
 
 
@@ -44,10 +44,10 @@ class CheckSubdomain
           // dd($mark);
 
           //dump(Session::has('agency_image'), Session::get('agency_image'));
-         
+
        }else{
 
-          dump("not register agency");
+          dump("aws not register agency");
           dd('restriced ');
        }
         return $next($request);
