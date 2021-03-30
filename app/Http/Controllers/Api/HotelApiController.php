@@ -12,12 +12,12 @@ use App\Helpers\Hotel;
 
 class HotelApiController extends Controller
 {
-    protected $hotel_url = 'https://api-sandbox.grnconnect.com/api/v3//hotels/'; //leavecasa@562  nitesha@acmemedia.in
-    protected $hotel_key = 'b12092d579e8795a77c3abe759d6185f';
-    
+    //protected $hotel_url = 'https://api-sandbox.grnconnect.com/api/v3//hotels/'; //leavecasa@562  nitesha@acmemedia.in
+    //protected $hotel_key = 'b12092d579e8795a77c3abe759d6185f';
+
 //live
-    //protected $hotel_url = 'https://v4-api.grnconnect.com/api/v3/hotels/';
-    //protected $hotel_key = '7a0ad1b28d1b56ec461f9bd0c3034d86';
+    protected $hotel_url = 'https://v4-api.grnconnect.com/api/v3/hotels/';
+    protected $hotel_key = '7a0ad1b28d1b56ec461f9bd0c3034d86';
 
     public function city_data($city){
        // $search = SearchData::Where('name', 'like', $city .'%')->pluck('name','code');
@@ -144,7 +144,7 @@ class HotelApiController extends Controller
            }
        }
              $mark_up =  Hotel::hotel_mark_ups($request->destination_code);
-            
+
 
     return response()->json(['status'=>'success', 'results'=>$hotel, 'no_of_hotels'=>$no_of_hotels,  'logid'=>$logid,'markup'=>$mark_up ]);
 }
@@ -176,7 +176,7 @@ if(!empty($hotel['hotel']['city_code'])){
     Hotel::hotel_log('refetch_result' , json_encode($hotel), $logid);
     if(!empty($hotel['errors'][0])){
         return response()->json(['status'=>'error', 'results'=>$hotel]);
-       } 
+       }
     return response()->json(['status'=>'success', 'results'=>$hotel, 'logid'=>$logid, 'markup'=> $mark_up ]);
 
 }
@@ -215,7 +215,7 @@ if(!empty($hotel['hotel']['city_code'])){
 
          //Hotel::hotel_log('recheck_response', json_encode($request->toArray()) , $logid);
 
-      
+
         $logid  = $request['logid'];
         $recheck = new Client();
         $re_res = $recheck->request('post',$this->hotel_url.'availability/'.$request->search_id.'/rates/?action=recheck',[
@@ -226,7 +226,7 @@ if(!empty($hotel['hotel']['city_code'])){
                 'Accept-Encoding' => 'application/json'
             ],
             'json'=>[
-                    'rate_key'=> $request->rate_key, 
+                    'rate_key'=> $request->rate_key,
                     'group_code'=> $request->group_code
                     ]
 
