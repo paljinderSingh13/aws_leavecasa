@@ -108,8 +108,8 @@ class HotelApiController extends Controller
         $hotel_detail = HotelInfo::where('city_code',$request->destination_code)->pluck('code');
         $hotel_codes = $hotel_detail->toArray();
         $new = [];
-        if(count($hotel_codes) > 250 ){
-            $chunk = array_chunk( $hotel_codes, 250);
+        if(count($hotel_codes) > 100 ){
+            $chunk = array_chunk( $hotel_codes, 100);
             $chunk_hotel_cod_size   = count($chunk);
             for($i=0; $i< $chunk_hotel_cod_size; $i++ ){
                  $new[$i] =  $hotel = $this->hotel_availablity($request,  $chunk[$i]);
