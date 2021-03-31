@@ -13,7 +13,7 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
 
 <div class="search">
     <div class="search_inner">
-      
+
       <div class="container fill_height no-padding">
         <div class="row fill_height no-margin">
           <div class="col fill_height no-padding">
@@ -78,7 +78,7 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
                               <option value="5">05</option>
                             </select>
                           </div>
-                          
+
                           <div class="col">
                             <select name="children[]" class="children browser-default child_sel" onchange="childCount(this.value)">
                               <option value="0" selected="selected">00</option>
@@ -90,17 +90,17 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
                           </div>
                           <div class="col"></div>
                         </div>
-                        
+
                         <div class="row"><div class="childs form-row mt-2 mb-2" id="child1">
                         </div></div>
-                        
+
                       </div></div>
                       <div class="row card-footer">
                         <div class="col"><a href="javascript:void(0)" class=" add_room">Add Room</a></div>
                         <div class="col"><a href="javascript:void(0)" class="" id="done">Apply</a></div>
                       </div>
                     </div>
-                    </div> 
+                    </div>
               </div>
                 <div class="search_item col-md-3">
                   <button class="button search_button">search<span></span><span></span><span></span></button></div>
@@ -124,7 +124,7 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
                               <option value="5">05</option>
                             </select>
                           </div>
-                          
+
                           <div class="col">
                             <select name="children[]" class="children browser-default child_sel" onchange="childCount(this.value)">
                               <option value="0" selected="selected">00</option>
@@ -136,10 +136,10 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
                           </div>
                           <div class="col"></div>
                         </div>
-                        
+
                         <div class="row"><div class="childs form-row mt-2 mb-2" id="child1">
                         </div></div>
-                        
+
                       </div></div>
                       <div class="row card-footer">
                         <div class="col"><a href="javascript:void(0)" class=" add_room">Add Room</a></div>
@@ -155,7 +155,7 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
                     <input name="action" type="hidden" value="bus">
                     {{--     {!! Form::open(['route'=>'bus.search','autocomplete'=>'off' ]) !!}
                     {!! Form::hidden('action','bus') !!} --}}
-                    
+
                     <input type="hidden" name="bus_from" id="bus_dep">
                     <input type="hidden" name="bus_to" id="bus_arv">
                     <div class="search_item col-md-3">
@@ -171,7 +171,7 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
                       {{-- <input type="text" class="checkut search_input" placeholder="YYYY-MM-DD"> --}}
                       <input  name="journey_date" id="bcheckin" type="text" class="validate search_input" placeholder="YYYY-MM-DD" required>
                     </div>
-                    
+
                     <button class="button search_button" type="submit" >search<span></span><span></span><span></span></button>
                   </form>
                 </div>
@@ -190,7 +190,7 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
                         <label class="lab-btn  radio-inline" for="radio-btn-3">Multi City</label>
                       </div>
                     </div>
-                    
+
                     <div class="row one_way_round">
                       <div class="search_item col-md-2">
                         <label>Leaving From</label>
@@ -314,7 +314,7 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
                             <button class="button search_button Fbutn" type="submit">search<span></span><span></span><span></span></button>
                           </div>
                         </div>
-                        
+
                       </div> </div>
                     </form>
                   </div>
@@ -391,5 +391,5 @@ background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;
           </div>
         </div>
         <!-- Intro -->
-        
-        
+
+

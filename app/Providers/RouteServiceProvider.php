@@ -26,6 +26,8 @@ class RouteServiceProvider extends ServiceProvider
         //
 
         parent::boot();
+        \Illuminate\Support\Facades\URL::forceScheme('https');
+
     }
 
     /**
