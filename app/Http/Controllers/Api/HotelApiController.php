@@ -110,7 +110,7 @@ class HotelApiController extends Controller
         $new = [];
         if(count($hotel_codes) > 100 ){
             $chunk = array_chunk( $hotel_codes, 100);
-            $chunk_hotel_cod_size   = 2;//count($chunk);
+            $chunk_hotel_cod_size   = count($chunk);
             for($i=0; $i< $chunk_hotel_cod_size; $i++ ){
                  $new[$i] =  $hotel = $this->hotel_availablity($request,  $chunk[$i]);
 
