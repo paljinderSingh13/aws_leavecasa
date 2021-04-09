@@ -179,8 +179,6 @@ class WebsiteController extends Controller
 
         $data = SearchData::where('id',1)->first();
 
-        dump($data);
-
         return view('frontend.pages.index');
             // ,['countries'=>collect($countries['countries'])->pluck('name','code')]);
     }
