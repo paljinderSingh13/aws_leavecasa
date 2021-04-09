@@ -16,7 +16,7 @@
 use App\Helpers\Hotel;
 $mark_price = 0;
 
-<!-- dump(@$hotel_imgs, @$hotel); -->
+
 @endphp
 
 @if(!empty($error[0]['messages'][0])){{--
