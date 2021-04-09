@@ -12,14 +12,14 @@
 
 	</style>
 
-@php 
+@php
 use App\Helpers\Hotel;
 $mark_price = 0;
 
-dump(@$hotel_imgs, @$hotel);
+<!-- dump(@$hotel_imgs, @$hotel); -->
 @endphp
 
-@if(!empty($error[0]['messages'][0])){{-- 
+@if(!empty($error[0]['messages'][0])){{--
 	<h4 class="red-text">{{ $error[0]['messages'][0]}}</h4> --}}
 	<div class="col s12  l10 center-align white">
       <img src="{{ url('images/error-2.png') }}" class="bg-image-404" alt="">
@@ -41,7 +41,7 @@ dump(@$hotel_imgs, @$hotel);
         </div>
       </div>
     </div>
-  </div>   
+  </div>
 </div>
 <section class="section" id="content">
 	<div class="container">
@@ -49,22 +49,22 @@ dump(@$hotel_imgs, @$hotel);
 
 		@if(!empty($hotel_imgs))
 		<div class="row">
-			
+
 				<img class="col-8 main-img" src="{{$hotel['hotel']['images']['url']}}">
-			
+
 			<div class="col-4">
 
 				<div class="row">
 					@foreach($hotel_imgs['regular'] as $img_key =>$img_val)
-						
+
 						<img class="col-4 img-responsive img-thumbnail h-90 changeimg" src="{{ $img_val['url'] }}" >
-						
+
 					@endforeach
-					
+
 				</div>
-				
+
 			</div>
-			
+
 		</div>
 
 
@@ -81,7 +81,7 @@ dump(@$hotel_imgs, @$hotel);
 			if(!empty($hotel['category'])){
 			$dull = 5 - $hotel['category'];
 			}
-			@endphp	
+			@endphp
 			@php
 			$adult=0;
 			$child=0;
@@ -110,7 +110,7 @@ dump(@$hotel_imgs, @$hotel);
       @endphp
       @for($i=0;$i<$rating;$i++)
       <img src="{{ url('/images/star/star.png') }}"  width="16" height="16">
-      @endfor 
+      @endfor
       @if(strpos($decimalstart,'.') !== false)
       <img src="{{ url('/images/star/star'.$pointrating.'.png') }}" width="16" height="16">
       @endif
@@ -123,7 +123,7 @@ dump(@$hotel_imgs, @$hotel);
 	 		    <h6 class="mt0"><i class="fas fa-map-marker red-text"></i> {{ $hotel['address'] }}</h6>
 
 
-	 		    
+
 	 		    <h6><i class="fas fa-home green-text"></i>{{ count($hotel_req['rooms']) }} Rooms  , <i class="fas fa-user-tie mdb-text"></i> {{ $adult }}  Adults ,<i class="fas fa-child mdb-text"></i> {{ $child }} Child
 	</h6>
 	 		</div>
@@ -139,7 +139,7 @@ dump(@$hotel_imgs, @$hotel);
 
 		<div class="row mt-5 mb-1 justify-content-md-left">
 			<div class="col"><br>
-				
+
 	 			<p class="mt0 ">
 					<span class="fs15 white-text text-darken-4">
 						<i class="far fa-clock orange-text"></i> Check In :
@@ -148,8 +148,8 @@ dump(@$hotel_imgs, @$hotel);
 					<span class="fs15 white-text text-darken-4">
 						&nbsp;<i class="far fa-clock orange-text"></i> Check Out :
 					{{ \Carbon\Carbon::parse($hotel_req['checkout'])->format('d M ,Y') }}
-						</span>	
-						
+						</span>
+
 				</p>
 			</div>
 		</div>
@@ -196,23 +196,23 @@ dump(@$hotel_imgs, @$hotel);
 	 			@endif
 	 			{{-- <form method="post" action="{{ route('hotel.recheck') }}"> --}}
 
-	 				
+
 
 	 			@if($r_val['no_of_rooms'] != count($hotel_req['rooms']))
 
-	 			<h6> Adult 
+	 			<h6> Adult
 
 	 			{{$r_val['rooms'][0]['no_of_adults']}}  Children {{$r_val['rooms'][0]['no_of_children']}}
 
 	 		</h6>
-@php		
+@php
 	// dump($r_val);
-	 				
+
 	 			@endphp
 
 
 	 			@endif
-	 				
+
 			      <li class="collection-item row">
 			      	<input type="hidden"  value="{{ $other['search_id'] }}" name="search_id">
 			      	<input type="hidden"  value="{{ $hotel['hotel_code'] }}" name="hotel_code">
@@ -231,10 +231,10 @@ dump(@$hotel_imgs, @$hotel);
                 <label style="font-size: 15px;"><div class="col l5">
 			    @if($r_val['no_of_rooms'] != count($hotel_req['rooms']))
 			    	{{-- {{$loop->index}} --}}
-			    	 <input type="checkbox" name="rate_index[]" value="{{$loop->index}}"> 
+			    	 <input type="checkbox" name="rate_index[]" value="{{$loop->index}}">
 			    @endif
 			      <span class="black-text lc">
-			      	{{ count($r_val['rooms']) }} &#10005; {{ $r_val['rooms'][0]['description'] }} 
+			      	{{ count($r_val['rooms']) }} &#10005; {{ $r_val['rooms'][0]['description'] }}
 
 			      	@if(!empty($r_val['non_refundable']))
 			      		<p>Non Refundable</p>
@@ -255,7 +255,7 @@ dump(@$hotel_imgs, @$hotel);
 			      		$mark_price=0;
 			      	}
 
-			      	
+
     				$total_price = $r_val['price'] + $mark_price;
 
 			      	@endphp
@@ -267,7 +267,7 @@ dump(@$hotel_imgs, @$hotel);
 			    	{{-- <input type="hidden"  value="{{ $r_val['price'] }}" name="price">	 --}}
 			    	{{-- <a href="javascript:modal_detail({{ $loop->index }})" class="modal-trigger"">Rate Comment</a> --}}
 			    	</div>
-			    	
+
 			    @if($r_val['no_of_rooms'] != count($hotel_req['rooms'])  )
 			    <a href="javascript:modal_detail({{ $loop->index }})" >Cancellation Policy</a>
 			    @else
@@ -275,7 +275,7 @@ dump(@$hotel_imgs, @$hotel);
 			    		<a href="javascript:modal_detail({{ $loop->index }})" >Cancellation Policy</a>
 
 			    		<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#policy_model_{{ $loop->index }}">
-  Launch demo modal 
+  Launch demo modal
 </button>
 
 <!-- Modal -->
@@ -307,15 +307,15 @@ dump(@$hotel_imgs, @$hotel);
 			    @endif
 
 			      </li>
-			 
+
 
 			 @if($r_val['no_of_rooms'] != count($hotel_req['rooms'])  )
 
 	 				@if($loop->last)
-	 					 
+
 						<button type="submit" class="btn li-red">Book</button>
 	 					 </form>
-	 					
+
 	 				@endif
 	 			@else
 	 				</form>
@@ -333,7 +333,7 @@ dump(@$hotel_imgs, @$hotel);
           <li class="tab" style="line-height: 35px; height: 33px;">
             <a href="#cancel{{$loop->index}}" class="lc">Cancellation</a>
           </li>
-        
+
         </ul>
       </div>
       <div id="rate{{$loop->index}}">
@@ -347,7 +347,7 @@ dump(@$hotel_imgs, @$hotel);
 			      	    {{$r_val['rate_comments']['pax_comments'] }}
 			      	@endif --}}
 	</div>
-	<div id="cancel{{$loop->index}}">		      	
+	<div id="cancel{{$loop->index}}">
 @if(!empty($r_val['cancellation_policy_code']))
 @php
 	$cp = Hotel::get_policy_by_code($other['search_id'], $r_val['rate_key'], $r_val['cancellation_policy_code'],123);
@@ -370,13 +370,13 @@ dump(@$hotel_imgs, @$hotel);
 		@elseif(!empty($cp['details'][0]['from']))
 		<tr> <h6><span class="orange-text"> &#2547;</span> Cancellation charges starts from
 			{{ \Carbon\Carbon::parse($cp['details'][0]['from'])->format('d M ,Y H:i:s') }}
-		  </h6></tr>		 
+		  </h6></tr>
 		 @endif
 		 @if(!empty($r_val['cancellation_policy']['under_cancellation']) && ($r_val['cancellation_policy']["under_cancellation"] == true))
 		<tr> <h6><span class="orange-text"> &#2547;</span> This booking  is under cancellation and you have to pay charges
 			  </h6>
 		</tr>
-		
+
 
 		@elseif(!empty($cp['under_cancellation']) && ($cp['under_cancellation'] == true))
 		<tr> <h6><span class="orange-text"> &#2547;</span> This booking  is under cancellation and you have to pay charges
@@ -387,62 +387,62 @@ dump(@$hotel_imgs, @$hotel);
 			  </h6>
 		</tr>
 		@endif
-		 
+
 
 		 @if(!empty($cp['no_show_fee']['flat_fee']) && (!empty($cp['no_show_fee']['currency'])))
 			<tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges for no show fee will be  {{ $cp['no_show_fee']['currency'] }} {{ $cp['no_show_fee']['flat_fee'] }} </h6></tr>
 
 		@elseif(!empty($r_val['cancellation_policy']['no_show_fee']['flat_fee']) &&(!empty($r_val['cancellation_policy']['no_show_fee']['currency'])))
 
-		   <tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges for no show fee will be  {{$r_val['cancellation_policy']['no_show_fee']['currency']}}  {{ $r_val['cancellation_policy']['no_show_fee']['flat_fee']}} .</h6></tr>			                
+		   <tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges for no show fee will be  {{$r_val['cancellation_policy']['no_show_fee']['currency']}}  {{ $r_val['cancellation_policy']['no_show_fee']['flat_fee']}} .</h6></tr>
 		 @elseif(!empty($r_val['cancellation_policy']['details'][0]['flat_fee']) &&(!empty($r_val['cancellation_policy']['details'][0]['currency'])))
 
 		   <tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges will be  {{$r_val['cancellation_policy']['details'][0]['currency']}}  {{ $r_val['cancellation_policy']['details'][0]['flat_fee']}} .</h6></tr>
 
 		   @elseif(!empty($cp['details'][0]['flat_fee']) &&(!empty($cp['details'][0]['currency'])))
 
-		   <tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges will be  {{$cp['details'][0]['currency']}}  {{ $cp['details'][0]['flat_fee']}} .</h6></tr>				                  
+		   <tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges will be  {{$cp['details'][0]['currency']}}  {{ $cp['details'][0]['flat_fee']}} .</h6></tr>
 	   @endif
 
 		@if(!empty($cp['cancel_by_date']))
-		<tr> <h6><span class="orange-text"> &#2547;</span> Free cancellation till 			
+		<tr> <h6><span class="orange-text"> &#2547;</span> Free cancellation till
 			{{ \Carbon\Carbon::parse($cp['cancel_by_date'])->format('d M ,Y H:i:s') }}
-			</h6></tr>	
+			</h6></tr>
 
 		@elseif(!empty($r_val['cancellation_policy']['cancel_by_date']))
-		<tr><h6> <span class="orange-text"> &#2547;</span> Free cancellation till 						              
+		<tr><h6> <span class="orange-text"> &#2547;</span> Free cancellation till
 			{{ \Carbon\Carbon::parse($r_val['cancellation_policy']['cancel_by_date'])->format('d M ,Y H:i:s') }}
-		</h6></tr>		 
+		</h6></tr>
 		 @endif
-	
+
 	   @if(!empty($r_val['cancellation_policy']['no_show_fee']['percent']))
-		<tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges for no show fee will be  {{$r_val['cancellation_policy']['no_show_fee']['percent']}} %</h6></tr>			                
+		<tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges for no show fee will be  {{$r_val['cancellation_policy']['no_show_fee']['percent']}} %</h6></tr>
 		@elseif(!empty($cp['no_show_fee']['percent']))
-		<tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges for no show fee will be  {{$cp['no_show_fee']['percent']}} %</h6></tr>	
+		<tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges for no show fee will be  {{$cp['no_show_fee']['percent']}} %</h6></tr>
 		@elseif(!empty($r_val['cancellation_policy']['details'][0]['percent']))
 		<tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges will be  {{$r_val['cancellation_policy']['details'][0]['percent']}} %</h6></tr>
 		@elseif(!empty($cp['details'][0]['percent']))
-		<tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges will be  {{$cp['details'][0]['percent']}} %</h6></tr>				                
+		<tr><h6><span class="orange-text"> &#2547;</span> Cancellation charges will be  {{$cp['details'][0]['percent']}} %</h6></tr>
 		@endif
 		@endif
      </table>
-			      	
+
     </div></div>
-    
+
   </div></div>
 			    @endforeach
 
 			    </ul>
 	 			</div>
-	 			
-	 		
+
+
 
 	 			</div>
 	</div>
 </section>
 @endif
 <script type="text/javascript">
-	
+
 	$(document).on('click','.changeimg',function(e){
 
 
@@ -453,4 +453,4 @@ dump(@$hotel_imgs, @$hotel);
 
 	});
 </script>
-@endsection	
+@endsection
